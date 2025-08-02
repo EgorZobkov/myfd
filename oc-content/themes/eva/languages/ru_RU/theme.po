@@ -1,0 +1,2055 @@
+# English translations for modern - theme map package.
+# Copyright (C) 2013 THE modern - theme map'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the modern - theme map package.
+# Automatically generated, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Eva\n"
+"Report-Msgid-Bugs-To: info@osclass.org\n"
+"POT-Creation-Date: 2018-10-12 02:32+0300\n"
+"PO-Revision-Date: 2018-10-12 02:35+0300\n"
+"Last-Translator: Dis <disruptive555@gmail.com>\n"
+"Language-Team: none\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: ;_e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: 404.php:28
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: 404.php:33
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Позвольте помочь Вам, у нас есть несколько подсказок."
+
+#: 404.php:35
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Поиск</strong>для:"
+
+#: 404.php:40
+msgid "Search"
+msgstr "Поиск"
+
+#: 404.php:44
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Посмотрите</strong> в популярных категориях."
+
+#.
+#. * Copyright 2018 osclass-pro.com
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#: admin/ads.php:12 admin/help.php:17 admin/settings.php:55
+msgid "Ads management"
+msgstr "Управление рекламой"
+
+#: admin/ads.php:20
+msgid ""
+"In this section you can configure your site to display ads and start "
+"generating revenue."
+msgstr ""
+"Здесь Вы можете настроить рекламу. Помните - шаблон адаптивный. Рекламу "
+"желательно так же использовать адаптивную."
+
+#: admin/ads.php:20
+msgid ""
+"If you are using an online advertising platform, such as Google Adsense, "
+"copy and paste here the provided code for ads."
+msgstr ""
+"Если Вы используете рекламу типа Google Adsense. Скопируйте код рекламы и "
+"вставьте здесь."
+
+#: admin/ads.php:20
+msgid ""
+"Important! Google Adsense allows you to place only three blocks in page "
+msgstr ""
+"Помните! По правилам Adsense на одной странице не должно быть больше 3-х "
+"блоков"
+
+#: admin/ads.php:27
+msgid "Main page under categories"
+msgstr "На главной под категориями"
+
+#: admin/ads.php:31
+msgid ""
+"This ad will be shown at the Main page under categories. Note that the ad "
+"should be Responsive."
+msgstr "Эта реклама будет показываться под категориями на главной странице."
+
+#: admin/ads.php:35
+msgid "Homepage top of  latest listings"
+msgstr "Главная - над последними объявлениями"
+
+#: admin/ads.php:39
+msgid ""
+"This ad will be shown at the top of your latest listings in main page. Note "
+"that the  ad should be Responsive."
+msgstr ""
+"Эта реклама будет показываться над последними объявлениями на главной "
+"странице."
+
+#: admin/ads.php:43
+msgid "Homepage under of latest listings"
+msgstr "Главная страница - под объявлениями"
+
+#: admin/ads.php:47
+msgid ""
+"This ad will be shown on the main page under of your latest listings. Note "
+"that the  ad should be Responsive."
+msgstr ""
+"Эта реклама будет показываться под последними объявлениями на главной "
+"странице."
+
+#: admin/ads.php:51
+msgid "Homepage middle of latest listings(only list view).Read Help"
+msgstr "Главная - посередине между объявлений. Только при отображении списком!"
+
+#: admin/ads.php:55
+msgid ""
+"This ad will be shown on the main page middle of your latest listings. Note "
+"that the  ad should be Responsive."
+msgstr ""
+"Эта реклама будет показываться посередине (после 5 объявления или Введённому "
+"ниже номеру объявления) на главной странице, при виде - Список."
+
+#: admin/ads.php:59
+msgid "No. of item after Show - Homepage middle:"
+msgstr ""
+"После какого по счёту объявления показывать рекламу на главной посередине."
+
+#: admin/ads.php:66
+msgid "Search results top"
+msgstr "Результаты поиска над объявлениями"
+
+#: admin/ads.php:70
+msgid ""
+"This ad will be shown at the top search results of your site. Note that the  "
+"ad should be Responsive."
+msgstr "Это реклама будет показываться вверху страниц поиска"
+
+#: admin/ads.php:74
+msgid "Search results middle(only list view).Read Help"
+msgstr "Результаты поиска - посередине объявлений"
+
+#: admin/ads.php:78
+msgid ""
+"This ad will be shown at middle of search results of your website. Note that "
+"the  ad should be Responsive."
+msgstr ""
+"Эта реклама будет показываться на страницах поиска посередине( после 5  или "
+"Введённому ниже номеру объявления) при виде - Списком."
+
+#: admin/ads.php:82
+msgid "No. of item after Show - Search results middle:"
+msgstr ""
+"После какого по счёту объявления показывать рекламу, в середине поиска:"
+
+#: admin/ads.php:89
+msgid "Search under of listings"
+msgstr "Страница поиска - после объявлений"
+
+#: admin/ads.php:93
+msgid ""
+"This ad will be shown on the search page under of your listings. Note that "
+"the  ad should be Responsive."
+msgstr "Эта реклама будет показываться на страницах поиска после объявлений."
+
+#: admin/ads.php:97
+msgid "Item under of listing description"
+msgstr "Под текстом на странице объявления"
+
+#: admin/ads.php:101
+msgid ""
+"This ad will be shown on the item page under of listing description. Note "
+"that the  ad should be Responsive."
+msgstr "Эта реклама будет показываться на странице объявления после текста."
+
+#: admin/ads.php:105
+msgid "Item under useful info"
+msgstr "Под полезной информацией на странице объявления"
+
+#: admin/ads.php:109
+msgid ""
+"This ad will be shown on the item page under useful info. Note that the ad "
+"should be Responsive."
+msgstr ""
+"Эта реклама будет показываться на странице объявления после Полезной "
+"информации."
+
+#: admin/ads.php:113
+msgid "Item sidebar"
+msgstr "Сайдбар страницы объявления"
+
+#: admin/ads.php:117
+msgid ""
+"This ad will be shown on the item page sidebar. Note that the  ad should be "
+"Responsive."
+msgstr ""
+"Эта реклама будет показываться на странице объявления. Справа в sidebar"
+
+#: admin/ads.php:121 admin/color.php:62 admin/items_eva.php:106
+#: admin/related.php:155 admin/search.php:73 admin/settings.php:215
+#: admin/social.php:104 admin/text.php:74 admin/welcome.php:46
+msgid "Save changes"
+msgstr "Сохранить"
+
+#.
+#: admin/category_icons.php:1 admin/settings.php:50
+msgid "Category icons"
+msgstr "Иконки категорий"
+
+#: admin/category_icons.php:1
+msgid ""
+"Icon must be ~ 30X30px. Enable Use ImageMagick (Show More-Settings-Media) "
+"before upload images. Osclass badly work with transparent background .png "
+"and GD library."
+msgstr ""
+"Иконка должна быть размером ~ 30X30px . Включите использование ImageMagick "
+"(Показать больше-Настройки-Медиа) до загрузки изображений. Osclass плохо "
+"работает с прозрачным фоном .png и библиотекой GD."
+
+#: admin/category_icons.php:1
+msgid "Remove icon"
+msgstr "Удалить иконку"
+
+#: admin/category_icons.php:1
+msgid "No icon"
+msgstr "Нет иконки"
+
+#: admin/category_icons.php:1 admin/favicon.php:51 admin/header.php:52
+#: admin/search.php:37 admin/welcome.php:75 admin/welcome.php:103
+msgid "Upload"
+msgstr "Загрузить"
+
+#.
+#. * Copyright 2018 osclass-pro.com
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#: admin/color.php:13
+msgid "Color management"
+msgstr "Управление цветом"
+
+#: admin/color.php:21
+msgid "In this section you can select theme colors"
+msgstr "В этом разделе вы можете выбрать цвета темы"
+
+#: admin/color.php:27
+msgid "Select color:"
+msgstr "Выберите цвет:"
+
+#: admin/color.php:31
+msgid "You can change colors with color picker"
+msgstr "Вы можете изменить цвета шаблона с помощью палитры цветов ниже."
+
+#: admin/color.php:33
+msgid "Primary color"
+msgstr "Основной цвет"
+
+#: admin/color.php:40
+msgid "Second color - Hover"
+msgstr "Второй цвет - Hover"
+
+#: admin/color.php:47
+msgid "Publish your ad - button color"
+msgstr "Кнопка Добавить объявление - цвет кнопки"
+
+#: admin/color.php:55
+msgid "Publish your ad - button hover color"
+msgstr "Кнопка Добавить объявление - цвет кнопки при наведении"
+
+#.
+#. * Copyright 2018 osclass-pro.com
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#: admin/favicon.php:11
+msgid "Favicon Image"
+msgstr "Изображение Favicon"
+
+#: admin/favicon.php:12
+msgid "The preferred size of the favicon is 16x16 pixels."
+msgstr "Предпочтительный размер  Favicon 16х16 пикселей."
+
+#: admin/favicon.php:18 admin/header.php:16
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: admin/favicon.php:25
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+#: admin/favicon.php:32
+msgid "No image has been uploaded yet"
+msgstr "Изображение еще не загружено"
+
+#: admin/favicon.php:35
+msgid "Upload image"
+msgstr "Загрузить изображение"
+
+#: admin/favicon.php:37
+msgid ""
+"<strong>Note:</strong> Uploading another image will overwrite the current "
+"image."
+msgstr ""
+"<strong>Note:</strong> Загрузка другого изображения перезапишет текущее "
+"изображение."
+
+#: admin/favicon.php:45
+msgid "Accepted image (png,gif,jpg)"
+msgstr "Следующие форматы допускаются: PNG, GIF, JPG"
+
+#: admin/favicon.php:60 admin/header.php:61
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr ""
+"Папка с изображениями<strong>%s</strong> не доступна для записи на сервере"
+
+#: admin/favicon.php:61
+msgid "Osclass can't upload the image from the administration panel."
+msgstr "Osclass не могу загрузить изображение из панели администрирования."
+
+#: admin/favicon.php:62 admin/header.php:63
+msgid "Please make the aforementioned image folder writable."
+msgstr "Сделайте папку для фото, доступной для записи."
+
+#: admin/favicon.php:67 admin/header.php:68
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"Сделайте директорию доступной для записи в UNIX использую комманду из shell:"
+
+#.
+#. * Copyright 2018 osclass-pro.com
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#: admin/header.php:13
+msgid "Header logo"
+msgstr "Логотип"
+
+#: admin/header.php:23
+msgid "Remove logo"
+msgstr "Удалить логотип"
+
+#: admin/header.php:31
+msgid "No logo has been uploaded yet"
+msgstr "Логотип не был загружен"
+
+#: admin/header.php:34
+msgid "Upload logo"
+msgstr "Загрузить логотип"
+
+#: admin/header.php:36
+msgid "The recomended size of the logo is ~ 149x68."
+msgstr "Рекомендуемый размер логотипа равен ~ 149 x 68."
+
+#: admin/header.php:38
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr "<strong>Важно:</strong> загрузка нового логотипа - удалит текущий."
+
+#: admin/header.php:46
+msgid "Logo image (png,gif,jpg)"
+msgstr "Избражение логотипа (png,gif,jpg)"
+
+#: admin/header.php:62
+msgid "OSClass can't upload the logo image from the administration panel."
+msgstr "OSClass не может загрузить лого из админ панели."
+
+#: admin/help.php:3 admin/settings.php:58 admin/settings.php:205
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Mobile_menu"
+msgstr "Мобильное меню"
+
+#: admin/help.php:7
+msgid "Control of the size of images"
+msgstr "Размер изображений"
+
+#: admin/help.php:8
+msgid "The panel of the administrator - Settings - Media:"
+msgstr "Настройки - Медиа"
+
+#: admin/help.php:9
+msgid "The miniature size - 270x204"
+msgstr "Размер миниатюры - 270x204"
+
+#: admin/help.php:10
+msgid "The preview size - 770x514"
+msgstr "Размер превью  - 770x514"
+
+#: admin/help.php:11
+msgid ""
+"The normal size - 935x640( For normal size you can setup bigger size. This "
+"is image used in item page in Popup wondow)"
+msgstr ""
+"Нормальный размер - 935x640( Можете использовать и больший размер. Эти фото "
+"буду отображаться во всплывающем окне на странице объявления)."
+
+#: admin/help.php:12
+msgid ""
+"Disable - Force image aspect. No white background will be added to keep the "
+"size."
+msgstr ""
+"Пропорции изображения - отключите.  Пропорции изображения. Не добавлять "
+"белые поля к фото, чтобы сохранять пропорции."
+
+#: admin/help.php:13
+msgid "Enable - Use ImageMagick instead of GD library"
+msgstr ""
+"ImageMagick - включите. Использовать ImageMagick вместо GD library. Он "
+"быстрее и потребляет меньше ресурсов, чем GD library."
+
+#: admin/help.php:18
+msgid "Manage advertising platform, such as Google Adsense"
+msgstr "Управление рекламой, такой как Google Adsense"
+
+#: admin/help.php:19
+msgid "Homepage and search middle of latest listings work only for list view"
+msgstr "Посередине между объявлений - работает только при отображении списком."
+
+#: admin/help.php:20
+msgid ""
+"Default - Middle calculated that on page 10 listing and show after 5 listing"
+msgstr ""
+"По умолчанию. По середине считается из расчёта 10 объявлений на странице и "
+"показвается после пятого объявления."
+
+#: admin/help.php:21
+msgid "You can change this in Ads tab."
+msgstr "Вы можете изменить настроки во вкладке Управление рекламой."
+
+#: admin/help.php:23
+msgid "Icons for categories"
+msgstr "Иконки для категорий"
+
+#: admin/help.php:24
+msgid ""
+"If you change standart Osclass categories (or add new), it is necessary for "
+"you to make the icons for the changed categories."
+msgstr ""
+"Если Вы добавите новые категории, то Вам нужно создать для них иконки и "
+"загрузить."
+
+#: admin/help.php:25
+msgid "The size of images should be ~ 30x30 px"
+msgstr "Размер изображений должен быть ~ 30 x 30 пикселей"
+
+#: admin/help.php:26
+msgid "Images, for example, can be taken here:"
+msgstr "Изображения, например, могут быть взяты здесь:"
+
+#: admin/help.php:27
+msgid "Go to Category icons tab and upload or replace icons."
+msgstr ""
+"Перейдите во вкладку Иконки категорий.  И загрузите или замените иконки."
+
+#: admin/help.php:29
+msgid "Search Max-Min price edit"
+msgstr "Редактировать Мин-Макс цена на странице поиска"
+
+#: admin/help.php:30
+msgid "Open eva/js/main.js in 137 line min = 0; min price to select."
+msgstr "Открыть eva/js/main.js в 137 строке min = 0; мин Цена для выбора."
+
+#: admin/help.php:31
+msgid "In 138 line max = 1000000; max price."
+msgstr "В 138 строке max = 1000000; Макс цена."
+
+#: admin/help.php:34
+msgid "Google Map in Main and Search pages"
+msgstr "Google карта на главной и в поиске"
+
+#: admin/help.php:35
+msgid "All ads on the map are added by the coordinates"
+msgstr "Все объявления на карту добавляются по координатам"
+
+#: admin/help.php:36
+msgid ""
+"If your site already had ads, but the Google map plugin was not installed "
+"before:each time the map is loaded, the coordinates will be calculated"
+msgstr ""
+"Если ваш сайт уже имеет объявления, но плагин Google Maps не был установлен "
+"раньше: каждый раз, когда карта загружается, координаты будет рассчитываться "
+"для каждого объявления."
+
+#: admin/help.php:37
+msgid ""
+"The map can be loaded long if you configure a lot of ads to display on the "
+"map."
+msgstr ""
+"Карта может долго загружаться, если Вы настроите много объявлений для "
+"отображения на карте."
+
+#: admin/help.php:38
+msgid ""
+"But if you turn on the theme Map or install the Google map plugin:when user "
+"adding new ads to the site, the coordinates will be immediately calculated "
+"and saved to the database for each new ad"
+msgstr ""
+"Но если вы включите Карту шаблона или у Вас установлен плагин карт Google: "
+"при добавление новых объявлений на сайте, координаты будут сразу "
+"рассчитывается и сохраняться в базе данных для каждого нового объявления"
+
+#: admin/help.php:39
+msgid ""
+"The map will be loaded much faster, so the coordinates will be taken from "
+"the database."
+msgstr ""
+"Карта будет загружаться гораздо быстрее, так как координаты будут браться из "
+"базы данных."
+
+#: admin/help.php:40
+msgid ""
+"If the user specified an incorrect address, the ad will not be shown on the "
+"map."
+msgstr ""
+"Если пользователь указал неправильный адрес, объявление не будет показано на "
+"карте."
+
+#: admin/help.php:42
+msgid "Google Map keys"
+msgstr ""
+
+#: admin/help.php:43
+msgid "Enable Google Maps and Places Api"
+msgstr "Включить API Google Maps и Places "
+
+#: admin/help.php:46
+msgid ""
+"Unfortunately Google not allow limit access to Google Map Api for domain and "
+"IP together"
+msgstr ""
+"К сожалению, Google не позволяет ограничить доступ к одному ключу Google Map "
+"по домену и IP вместе"
+
+#: admin/help.php:47
+msgid "In this one, you can either restrict access by domain, or by IP"
+msgstr "Поэтому, Вы можете либо ограничить доступ по домену, либо по  IP"
+
+#: admin/help.php:48
+msgid ""
+"Google Maps JavaScript Api work with URLS and in can be restricted by domain "
+"name"
+msgstr "Google Maps JavaScript API может быть ограничено по доменному имени"
+
+#: admin/help.php:49
+msgid ""
+"But Google Geocoding Api Key send request to API from server IP and in can "
+"be restricted by IP only"
+msgstr ""
+"Но запрос к  Google Geocoding Api отправляется от  IP сервера и доступ к "
+"ключу может быть ограничен только по  IP"
+
+#: admin/help.php:50
+msgid ""
+"That is why we recommend creating two keys. First key for Google Maps "
+"JavaScript Api and restrict it by your domain name"
+msgstr ""
+"Поэтому мы рекомендуем создать два ключа. Первый ключ для Google Maps "
+"JavaScript API и ограничить его по вашему доменному имени"
+
+#: admin/help.php:53
+msgid "Second key for Google Geocoding Api and restrict it by your server IP"
+msgstr ""
+"Второй ключ для Google Geocoding Api и ограничить его по IP Вашего сервера"
+
+#: admin/help.php:58
+msgid "Translation"
+msgstr "Перевод"
+
+#: admin/help.php:59
+msgid "You can translate or edit theme translations with Poedit."
+msgstr "Вы можете перевести или изменить переводы шаблона с Poedit."
+
+#.
+#. * Copyright 2016 osclass-pro.com
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#: admin/items_eva.php:16
+msgid "Item-post options"
+msgstr "Опции при публикации объявлений"
+
+#: admin/items_eva.php:19
+msgid "Location option:"
+msgstr "Опция местоположения"
+
+#: admin/items_eva.php:22 admin/items_eva.php:74 admin/items_eva.php:85
+#: admin/items_eva.php:94 admin/search.php:50 admin/search.php:59
+#: admin/search.php:67 admin/settings.php:86 admin/settings.php:97
+#: admin/settings.php:126 admin/settings.php:163 admin/social.php:22
+#: admin/social.php:30 admin/welcome.php:41
+msgid "Enable"
+msgstr "Включить"
+
+#: admin/items_eva.php:23 admin/items_eva.php:75 admin/items_eva.php:86
+#: admin/items_eva.php:95 admin/search.php:49 admin/search.php:58
+#: admin/search.php:68 admin/settings.php:87 admin/settings.php:96
+#: admin/settings.php:125 admin/settings.php:162 admin/social.php:23
+#: admin/social.php:31 admin/welcome.php:40
+msgid "Disable"
+msgstr "Выключить"
+
+#: admin/items_eva.php:29
+msgid "With Countries"
+msgstr "С выбором страны"
+
+#: admin/items_eva.php:30
+msgid "Without Countries"
+msgstr "Без выбора страны"
+
+#: admin/items_eva.php:34
+msgid "Custom fileds postion:"
+msgstr "Позиция дополнительных полей:"
+
+#: admin/items_eva.php:37
+msgid "After categories"
+msgstr "После категорий"
+
+#: admin/items_eva.php:38
+msgid "Bottom"
+msgstr "Внизу"
+
+#: admin/items_eva.php:44
+msgid "Item page"
+msgstr "Страница объявления"
+
+#: admin/items_eva.php:45
+msgid "Custom setting for item page."
+msgstr "Настройки для страницы объявления."
+
+#: admin/items_eva.php:48
+msgid "Gallery:"
+msgstr "Галлерея:"
+
+#: admin/items_eva.php:52
+msgid "Swiper"
+msgstr ""
+
+#: admin/items_eva.php:53
+msgid "Bxslider"
+msgstr ""
+
+#: admin/items_eva.php:59
+msgid "Hide phones to XXXX:"
+msgstr "Скрыть телефоны XXXX:"
+
+#: admin/items_eva.php:63 admin/settings.php:137 admin/settings.php:148
+#: admin/text.php:70
+msgid "Hide"
+msgstr "Скрыть"
+
+#: admin/items_eva.php:64 admin/related.php:95 admin/related.php:107
+#: admin/related.php:119 admin/related.php:131 admin/related.php:143
+msgid "No"
+msgstr "Нет"
+
+#: admin/items_eva.php:70
+msgid "Mark as in item page:"
+msgstr "Блок \"Пометить как\" на странице объявления:"
+
+#: admin/items_eva.php:81
+msgid "Show useful info in item page:"
+msgstr "Блок полезная информация на странице объявления:"
+
+#: admin/items_eva.php:91
+msgid "Google Map."
+msgstr "Карта Google"
+
+#: admin/items_eva.php:99
+msgid "Install Api key first in Theme settings tab."
+msgstr "Сначала установите ключ Api в первой вкладке настроек."
+
+#: admin/items_eva.php:100
+msgid "You can disable this Map and use any other map plugin."
+msgstr ""
+"Вы можете отключить эту карту и использовать любой другой плагин карты."
+
+#: admin/items_eva.php:101
+msgid "Do not use Google map plugin and this option both."
+msgstr ""
+"Не используйте одновременно плагин Google Maps карта и встроенную карту."
+
+#: admin/related.php:65
+msgid "Setting saved successfully"
+msgstr "Настройки сохранены"
+
+#: admin/related.php:71
+msgid "Related Ads Preferences"
+msgstr "Похожие объявления св-ва"
+
+#: admin/related.php:82
+msgid "Number of related ads  "
+msgstr "Кол-во похожих объявлений"
+
+#: admin/related.php:86
+msgid "Enter how many ads you want to show on Item Page (Default is 4)"
+msgstr "Сколько похожих объявлений должно быть на странице объявления"
+
+#: admin/related.php:91
+msgid "Show only premium ads"
+msgstr "Показывать толкьо премиум"
+
+#: admin/related.php:96 admin/related.php:108 admin/related.php:120
+#: admin/related.php:132 admin/related.php:144
+msgid "Yes"
+msgstr "Да"
+
+#: admin/related.php:98
+msgid "Select Yes if you want to show premium ads only"
+msgstr "Выберите - если должны быть только премиум объявления"
+
+#: admin/related.php:103
+msgid "Show ads with pictures only"
+msgstr "Только объявления с фото"
+
+#: admin/related.php:110
+msgid "Select Yes if you want to show ads with picture only"
+msgstr "Показывать объявления только с фото"
+
+#: admin/related.php:115
+msgid "Show ads with same category"
+msgstr "Показывать объявления с той же категории"
+
+#: admin/related.php:122
+msgid "Select Yes to Filter ads by Category"
+msgstr "С такой же категории"
+
+#: admin/related.php:127
+msgid "Show ads with same country"
+msgstr "Показывать объявления с той же страны"
+
+#: admin/related.php:134
+msgid "Select Yes to Filter ads by Country"
+msgstr "Выберите - да, для фильтрации по странам"
+
+#: admin/related.php:139
+msgid "Show ads with same region"
+msgstr "Объявления с того же региона"
+
+#: admin/related.php:146
+msgid "Select Yes to Filter ads by Region"
+msgstr "Выберите - да, для фильтрации по регионам"
+
+#.
+#. * Copyright 2018 osclass-pro.com
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#: admin/search.php:13
+msgid "Search Header Background Image"
+msgstr "Фоновое изображение шапки на страницах поиска"
+
+#: admin/search.php:20 admin/welcome.php:58 admin/welcome.php:86
+msgid "Loaded image"
+msgstr "Загруженные изображения"
+
+#: admin/search.php:26 admin/welcome.php:64 admin/welcome.php:92 item.php:172
+#: user-items.php:92
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/search.php:33
+msgid "Recommended image size - 1920x500px or higher"
+msgstr "Рекомендуемый размер изображения - 1920x500px или выше"
+
+#: admin/search.php:34 admin/welcome.php:72 admin/welcome.php:100
+msgid "IMPORTANT!Before downloading new pictures - delete the old."
+msgstr "ВАЖНО! Прежде чем загружать новую фотографию - удалите старую"
+
+#.
+#. * Copyright 2018 osclass-pro.com
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#: admin/search.php:41 admin/social.php:18
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/search.php:46
+msgid "Google Map"
+msgstr "Карта Google"
+
+#: admin/search.php:55
+msgid "Header image"
+msgstr "Изображение в шапке"
+
+#: admin/search.php:63
+msgid "Advanced search City field"
+msgstr "Расширенный поиск поле Город:"
+
+#.
+#. * Copyright 2018 osclass-pro.com and osclass-pro.ru
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#: admin/settings.php:25 admin/settings.php:259
+msgid "osclass-pro.com"
+msgstr "osclass-pro.ru"
+
+#: admin/settings.php:34
+msgid "Follow us"
+msgstr "Мы в соцсетях"
+
+#: admin/settings.php:38
+msgid "osclassprocom"
+msgstr "osclassproru"
+
+#: admin/settings.php:39
+msgid "osclass_pro_com"
+msgstr "osclass_pro_ru"
+
+#: admin/settings.php:47 admin/settings.php:61
+msgid "Theme settings"
+msgstr "Настройки темы"
+
+#: admin/settings.php:48
+msgid "Main"
+msgstr "Главная"
+
+#: admin/settings.php:49
+msgid "Footer"
+msgstr "Подвал"
+
+#: admin/settings.php:51
+msgid "Favicon"
+msgstr "Favicon11"
+
+#: admin/settings.php:52
+msgid "Search page"
+msgstr "Страница поиска"
+
+#: admin/settings.php:53
+msgid "Colors"
+msgstr "Цвета"
+
+#: admin/settings.php:54
+msgid "Items"
+msgstr "Объявления"
+
+#: admin/settings.php:56
+msgid "Related ads"
+msgstr "Похожие объявления"
+
+#: admin/settings.php:57
+msgid "Text"
+msgstr "Текст"
+
+#: admin/settings.php:67
+msgid "Search placeholder"
+msgstr "Поиск Placeholder"
+
+#: admin/settings.php:73
+msgid "Show lists in Search pages as:"
+msgstr "Показывать объявления на страницах поиска как:"
+
+#: admin/settings.php:76
+msgid "Gallery"
+msgstr "Галерея"
+
+#: admin/settings.php:77
+msgid "List"
+msgstr "Список"
+
+#: admin/settings.php:82
+msgid "Category Icon in latest and search items:"
+msgstr "Иконки категорий в объявлениях:"
+
+#: admin/settings.php:93
+msgid "Search in Main page with Subcategories:"
+msgstr "Поиск с подкатегориями на главной странице:"
+
+#: admin/settings.php:102
+msgid "Search in Main page select options:"
+msgstr "Опции для поиска на главной:"
+
+#: admin/settings.php:103
+msgid ""
+"Search select option(Use the With all cities option in the search, if you "
+"have a single region or not many regions."
+msgstr ""
+"Опции для поиска на главной( Используйте фильтр Все города, если у Вас мало "
+"регионов. Иначе главная страница будет долго грузиться)"
+
+#: admin/settings.php:104
+msgid ""
+"If you have many regions or countries. Home page can be opened for a long "
+"time with this option.)"
+msgstr ""
+"Если у вас есть много регионов или стран. Домашняя страница может долго "
+"загружаться с этой опцией.)"
+
+#: admin/settings.php:108
+msgid "With all Options"
+msgstr "Все опции"
+
+#: admin/settings.php:109
+msgid "City autocomplete"
+msgstr "Автозаполнение города"
+
+#: admin/settings.php:110
+msgid "Cities by regions"
+msgstr "Города по регионам"
+
+#: admin/settings.php:111
+msgid "With all Regions"
+msgstr "Все регионы"
+
+#: admin/settings.php:112
+msgid "Regions with items"
+msgstr "Регионы с объявлениями"
+
+#: admin/settings.php:113
+msgid "With all Cities"
+msgstr "Все города"
+
+#: admin/settings.php:114
+msgid "Cities with items"
+msgstr "Города с объявлениями"
+
+#: admin/settings.php:115
+msgid "Countries with items"
+msgstr "Страны с объявлениями"
+
+#: admin/settings.php:116
+msgid "Hide location"
+msgstr "Скрыть местоположение"
+
+#: admin/settings.php:117
+msgid "Hide search"
+msgstr "Скрыть поиск"
+
+#: admin/settings.php:122
+msgid "Categories in main page:"
+msgstr "Категории на главной странице:"
+
+#: admin/settings.php:131
+msgid "Carousel1 in Main page:"
+msgstr "Carousel1 на главной странице:"
+
+#: admin/settings.php:135 admin/settings.php:146 search_list.php:14
+msgid "Premium items"
+msgstr "Премиум объявления"
+
+#: admin/settings.php:136 admin/settings.php:147
+msgid "Popular items"
+msgstr "Популярные объявления"
+
+#: admin/settings.php:142
+msgid "Carousel2 in Main page:"
+msgstr "Carousel2 на главной странице:"
+
+#: admin/settings.php:153
+msgid "No. of items in carousel:"
+msgstr "Кол-во объявлений в карусели:"
+
+#: admin/settings.php:159
+msgid "Main Google Map:"
+msgstr "Google карта на главной"
+
+#: admin/settings.php:168
+msgid "Google Map style:"
+msgstr "Стиль карты Google"
+
+#: admin/settings.php:171
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/settings.php:194
+msgid "Google Maps JavaScript Api Key:"
+msgstr ""
+
+#: admin/settings.php:198
+msgid "You can get Key here:"
+msgstr "Вы можете получить ключ здесь:"
+
+#: admin/settings.php:201
+msgid "Google Geocoding Api Key:"
+msgstr ""
+
+#: admin/settings.php:205
+msgid "Read Help about keys:"
+msgstr "Прочитайте справку о ключах:"
+
+#: admin/settings.php:208
+msgid "No. of items in Map:"
+msgstr "Макс кол-во объявления на карте"
+
+#: admin/settings.php:212
+msgid "Read Help tab before setting up"
+msgstr "Прочтите вкладку Помощь перед настройкой."
+
+#: admin/social.php:19
+msgid "Logo:"
+msgstr "Логотип:"
+
+#: admin/social.php:27
+msgid "Categories:"
+msgstr "Категории:"
+
+#: admin/social.php:35
+msgid "Copyright"
+msgstr "Копирайт"
+
+#: admin/social.php:38
+msgid "Your Copyright"
+msgstr "Ваш копирайт"
+
+#: admin/social.php:42
+msgid "This text will be displayed in the footer"
+msgstr "Этот текст будет отображаться в подвале"
+
+#: admin/social.php:45
+msgid "Social links in footer"
+msgstr "Ссылки на соцсети"
+
+#: admin/social.php:47
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/social.php:51
+msgid "This link to you Facebook page will be shown in footer."
+msgstr "Ссылка на Facebook страницу будет в подвале"
+
+#: admin/social.php:55
+msgid "Twitter"
+msgstr "Твиттер"
+
+#: admin/social.php:59
+msgid "This link to you Twitter page will be shown in footer."
+msgstr "Ссылка на Twitter страницу будет в подвале"
+
+#: admin/social.php:63
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/social.php:67
+msgid "This link to you Google+ page will be shown in footer."
+msgstr "Ссылка на Google+ страницу будет в подвале"
+
+#: admin/social.php:71
+msgid "Instagram"
+msgstr "Instagram"
+
+#: admin/social.php:75
+msgid "This link to you Instagram page will be shown in footer."
+msgstr "Эта ссылка на вашу страницу Instagram будет показана в подвале."
+
+#: admin/social.php:79
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/social.php:83
+msgid "This link to you Pinterest page will be shown in footer."
+msgstr "Ссылка на Pinterest страницу будет в подвале"
+
+#: admin/social.php:87
+msgid "Vkontakte"
+msgstr "Вконтакте"
+
+#: admin/social.php:91
+msgid "This link to you Vkontakte page will be shown in footer."
+msgstr "Ссылка на Vkontakte страницу будет в подвале"
+
+#: admin/social.php:95
+msgid "Odnoklassniki"
+msgstr "Одноклассники"
+
+#: admin/social.php:99
+msgid "This link to you Odnoklassniki page will be shown in footer."
+msgstr "Ссылка на Odnoklassniki страницу будет в подвале"
+
+#.
+#. * Copyright 2018 osclass-pro.com
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#: admin/text.php:12
+msgid "Text management"
+msgstr "Управления текстом"
+
+#: admin/text.php:20
+msgid ""
+"In this section you can add some text for SEO or just for users. The text "
+"can be with HTML tags. Or you can just use these places for banners or any "
+"HTML code."
+msgstr ""
+"В этом разделе можно добавить некоторый текст для SEO или просто для "
+"пользователей. Текст может быть с тегами HTML. Или вы можете просто "
+"использовать эти места для баннеров или любой HTML-код."
+
+#: admin/text.php:26
+msgid "Homepage - Under categories."
+msgstr "На главной под категориями"
+
+#: admin/text.php:30
+msgid "This will be shown on the main page Above the premium listings."
+msgstr ""
+"Эта реклама будет отображаться на главной странице выше премиум объявлений."
+
+#: admin/text.php:35
+msgid "Homepage - Under the latest listings."
+msgstr "Главная страница - под последними объявлениями"
+
+#: admin/text.php:39
+msgid "This will be shown on the main page Under all listings."
+msgstr ""
+"Эта реклама будет показываться на главной странице после всех объявлений."
+
+#: admin/text.php:43
+msgid "Homepage - Before latest H2."
+msgstr "Главная - над последними объявлениями H2"
+
+#: admin/text.php:47 admin/text.php:55
+msgid "This will be shown on the main Before latest listings."
+msgstr "Этоn заголовок будет показан на главной до последних объявлений."
+
+#: admin/text.php:51
+msgid "Homepage - Before latest H2 text."
+msgstr "Главаня -перед последними объявлениями H2."
+
+#: admin/text.php:59
+msgid "Categories description"
+msgstr "Описание категории"
+
+#: admin/text.php:63
+msgid ""
+"You can add for each Osclass category some text with HTML tags in Settings - "
+"Categories. This text can be displayed on the category page."
+msgstr ""
+"Можно добавить для каждой категории Osclass текст с HTML-тегами в Настройкаи "
+"- Категории. Этот текст может отображаться на странице категории."
+
+#: admin/text.php:68
+msgid "At the top of the page"
+msgstr "В верхней части страницы"
+
+#: admin/text.php:69
+msgid "At the bottom of the page"
+msgstr "В нижней части страницы"
+
+#.
+#. * Copyright 2018 osclass-pro.com
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#: admin/welcome.php:13
+msgid "Main Welcome Text and Search Background Image"
+msgstr "Тест приветствия на главной и фоновая картинка"
+
+#: admin/welcome.php:19
+msgid "Main page H1 Welcome Text "
+msgstr "Н1"
+
+#: admin/welcome.php:23
+msgid "This  H1 Welcome Text be shown at the Main page."
+msgstr "Будет виден на главной"
+
+#: admin/welcome.php:27
+msgid "Main page under H1 Welcome Text "
+msgstr "Текст под Н1"
+
+#: admin/welcome.php:31
+msgid "This Welcome Text under H1 be shown at the Main page."
+msgstr "Этот текст будет виден на главной"
+
+#: admin/welcome.php:37
+msgid "Middle block image with text"
+msgstr "Средний блок - изображение с текстом"
+
+#: admin/welcome.php:51
+msgid "Main Search Background Image"
+msgstr "Фоновое изображение поиска"
+
+#: admin/welcome.php:71
+msgid "Recommended image size ~ 1920x900px or higher"
+msgstr "Рекомендуемый размер изображения ~ 1920x900px или выше"
+
+#: admin/welcome.php:79
+msgid "Main Middle Image"
+msgstr "Изображения в середине страницы на главной"
+
+#: admin/welcome.php:99
+msgid "Recommended image size ~ 1920x1200px or higher"
+msgstr "Рекомендуемый размер изображения - 1920x1200px или выше"
+
+#.
+#. * Copyright 2018 osclass-pro.com
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#: alert-form.php:14
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Вы успешно подписались на рассылку"
+
+#: alert-form.php:15 user-change_email.php:34
+msgid "Invalid email address"
+msgstr "Неверный формат e-mail адреса"
+
+#: alert-form.php:16
+msgid "There was a problem with the alert"
+msgstr "Была проблема с этой подпиской"
+
+#: alert-form.php:46
+msgid "Subscribe to this search"
+msgstr "Подписаться на этот поиск"
+
+#: alert-form.php:56 alert-form.php:61
+msgid "Subscribe"
+msgstr "Подписаться "
+
+#: contact.php:29 template-contact.php:39
+msgid "Contact us"
+msgstr "Связаться с нами"
+
+#: contact.php:39 template-contact.php:40
+msgid "Subject"
+msgstr "Тема"
+
+#: contact.php:43 template-contact.php:41
+msgid "Message"
+msgstr "Сообщение"
+
+#: contact.php:44
+msgid "Detail description..."
+msgstr "Детальное описание..."
+
+#: contact.php:49 item-edit.php:175 item-post.php:174 user-profile.php:71
+msgid "Name"
+msgstr "Имя"
+
+#: contact.php:50 item.php:147 item.php:271 template-contact.php:42
+#: user-public-profile.php:85
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: contact.php:53 item-edit.php:179 item-post.php:178 user-login.php:37
+#: user-profile.php:76 user-recover.php:39
+msgid "E-mail"
+msgstr "E-mail"
+
+#: contact.php:54 template-contact.php:43
+msgid "Your e-mail address"
+msgstr "Ваш e-mail "
+
+#: contact.php:61 item.php:155 item.php:293 template-contact.php:48
+#: user-public-profile.php:101
+msgid "Send"
+msgstr "Отправить"
+
+#: footer.php:77
+msgid "Contact"
+msgstr "Контакты"
+
+#.
+#: functions.php:1 templates/mainsearch/all.php:118
+#: templates/mainsearch/all.php:149
+#: templates/mainsearch/inc.searchcitybyreg.php:36
+msgid "Select a region..."
+msgstr "Выберите регион ..."
+
+#: functions.php:1 templates/mainsearch/all.php:171
+#: templates/mainsearch/all.php:198
+#: templates/mainsearch/inc.searchcitybyreg.php:87
+#: templates/mainsearch/inc.searchcitybyreg.php:114
+msgid "Select a city..."
+msgstr "Выберите город ..."
+
+#: functions.php:1 templates/mainsearch/all.php:38
+msgid "Select a country..."
+msgstr "Выберите страну..."
+
+#: functions.php:1
+msgid "Category..."
+msgstr "Категория..."
+
+#: functions.php:1
+msgid "Theme settings updated correctly"
+msgstr "Настройки шаблона сохранены"
+
+#: functions.php:1
+msgid "The logo image has been uploaded correctly"
+msgstr "Лого загрузилось корректно"
+
+#: functions.php:1
+msgid "An error has occurred, please try again"
+msgstr "Ошибка, попробуйте ещё"
+
+#: functions.php:1
+msgid "The logo image has been removed"
+msgstr "Логотип был удалён"
+
+#: functions.php:1
+msgid "Image not found"
+msgstr "Изображение не найдено"
+
+#: functions.php:1
+msgid "Settings updated correctly"
+msgstr "Настройки  сохранены"
+
+#: functions.php:1
+msgid "Ads management updated correctly"
+msgstr "Настройки  сохранены"
+
+#: functions.php:1
+msgid "The icon has been uploaded correctly"
+msgstr "Иконка была загружена правильно"
+
+#: functions.php:1
+msgid "The icon has been removed"
+msgstr "Иконка была удалена"
+
+#: functions.php:1
+msgid "The image has been uploaded correctly"
+msgstr "Изображение успешно загрузилось"
+
+#: functions.php:1
+msgid "The image has been removed"
+msgstr "Изображение удалено"
+
+#: functions.php:1
+msgid "Background color updated"
+msgstr "Обновлен цвет фона"
+
+#: functions.php:1
+msgid "The favicon image has been uploaded correctly"
+msgstr "Favicon успешно загружен"
+
+#: functions.php:1
+msgid "The favicon image has been removed"
+msgstr "Favicon был удален"
+
+#. USER MENU FIX
+#: functions.php:1
+msgid "Click to show the number"
+msgstr "Нажмите, чтобы посмотреть номер телефона"
+
+#. onsubmit="javascript:return doSearch();"
+#: header.php:46 headermain.php:49
+msgid "Publish your ad"
+msgstr "Добавить объявление"
+
+#: header.php:51 headermain.php:54
+msgid "Home"
+msgstr "Главная"
+
+#: header.php:54 headermain.php:57
+msgid "My account"
+msgstr "Мой аккаунт"
+
+#: header.php:55 headermain.php:58
+msgid "Logout"
+msgstr "Выйти"
+
+#: header.php:57 headermain.php:60
+msgid "Sign in"
+msgstr "Вход"
+
+#: header.php:59 headermain.php:62
+msgid "Sign up"
+msgstr "Регистрация"
+
+#: headermain.php:16
+msgid ""
+"You have enabled DEBUG MODE, autocomplete for locations will not work! "
+"Disable it in your config.php."
+msgstr ""
+"Вы включили режим отладки, автозаполнение для местоположений не будет "
+"работать! Отключите его в файле config. php."
+
+#: inc.main.subcategory.php:29 search_module.php:45
+msgid "Categories"
+msgstr "Категории"
+
+#: inc.main.subcategory.php:54
+msgid "View all"
+msgstr "Показать все"
+
+#: item-edit.php:86
+msgid "Update your listing"
+msgstr "Обновить объявление"
+
+#: item-edit.php:88 item-post.php:87 search_module.php:36
+msgid "Category"
+msgstr "Категория"
+
+#: item-edit.php:90 item-post.php:89 templates/mainsearch/all.php:29
+#: templates/mainsearch/inc.search.autocomplete.php:20
+#: templates/mainsearch/inc.search.regions.php:19
+#: templates/mainsearch/inc.searchcitybyreg.php:26
+msgid "Select a category"
+msgstr "Выбрать категорию"
+
+#: item-edit.php:99 item-post.php:98
+msgid "Title"
+msgstr "Заголовок"
+
+#: item-edit.php:105 item-post.php:104 item.php:98 item.php:104
+msgid "Description"
+msgstr "Описание"
+
+#: item-edit.php:112 item-post.php:111
+msgid "Add images"
+msgstr "Добавить изображения"
+
+#: item-edit.php:113 item-post.php:112
+msgid "You can upload up to"
+msgstr "Вы можете загрузить до"
+
+#: item-edit.php:113 item-post.php:112
+msgid "pictures per listing"
+msgstr "изображений в объявление"
+
+#: item-edit.php:114 item-post.php:113
+msgid "Max size"
+msgstr "Макс. размер"
+
+#: item-edit.php:114 item-post.php:113
+msgid "Kb for each image"
+msgstr "КБ для каждого изображения"
+
+#: item-edit.php:126 item-post.php:125
+msgid "Add new photo"
+msgstr "Добавить новое фото"
+
+#: item-edit.php:135 item-post.php:134 search_module.php:57
+msgid "Price"
+msgstr "Цена"
+
+#: item-edit.php:148 item-post.php:147 user-profile.php:112
+msgid "Country"
+msgstr "Страна"
+
+#: item-edit.php:156 item-post.php:155 user-profile.php:117
+msgid "Region"
+msgstr "Регион"
+
+#: item-edit.php:160 item-post.php:159 search_module.php:49
+#: user-profile.php:123
+msgid "City"
+msgstr "Город"
+
+#: item-edit.php:165 item-post.php:164
+msgid "City Area"
+msgstr "Район"
+
+#: item-edit.php:169 item-post.php:168 user-profile.php:129
+msgid "Address"
+msgstr "Адрес"
+
+#: item-edit.php:187 item-post.php:186
+msgid "Show email on listing page"
+msgstr "Показывать email на странице объявления"
+
+#: item-edit.php:213 user-change_email.php:93 user-change_password.php:67
+#: user-change_username.php:101 user-profile.php:140
+msgid "Update"
+msgstr "Обновить"
+
+#: item-edit.php:218
+msgid "Cancel"
+msgstr "Отмена"
+
+#: item-post.php:85
+msgid "Publish a listing"
+msgstr "Опубликовать объявление"
+
+#: item-post.php:212
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: item.php:99 item.php:159
+msgid "Comments"
+msgstr "Комментарии"
+
+#: item.php:100
+msgid "Specifications"
+msgstr "Характеристики"
+
+#: item.php:134
+msgid "Leave comments"
+msgstr "Оставить комментарий"
+
+#: item.php:150 item.php:273 user-public-profile.php:87
+msgid "Your e-mail*"
+msgstr "Ваш E-mail*"
+
+#: item.php:154
+msgid "Comment*"
+msgstr "Комментарий*"
+
+#: item.php:172
+msgid "Delete your comment"
+msgstr "Удалить комментарий"
+
+#: item.php:226 user-register.php:58
+msgid "Company"
+msgstr "Компания"
+
+#: item.php:228 user-register.php:57
+msgid "User"
+msgstr "Частное лицо"
+
+#: item.php:242 user-public-profile.php:73
+msgid "Write"
+msgstr "Написать"
+
+#: item.php:244
+msgid "Profile"
+msgstr "Профиль"
+
+#: item.php:254
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Это Ваше объявление, Вы не можете писать публикатору."
+
+#: item.php:258
+msgid ""
+"You must log in or register a new account in order to contact the publisher"
+msgstr ""
+"Вы должны войти или зарегистрироваться на сайте, для того чтобы написать "
+"публикатору"
+
+#: item.php:261
+msgid "Login"
+msgstr "Вход"
+
+#: item.php:262 user-login.php:50
+msgid "Register for a free account"
+msgstr "Регистрация"
+
+#: item.php:268 user-public-profile.php:82
+msgid "Contact publisher"
+msgstr "Написать публикатору"
+
+#: item.php:275 user-public-profile.php:89
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: item.php:278 user-public-profile.php:91
+msgid "Message*"
+msgstr "Сообщение*"
+
+#: item.php:282 user-public-profile.php:94
+msgid "Attachment"
+msgstr "Вложение"
+
+#: item.php:282 template-contact.php:40 template-contact.php:42
+#: user-public-profile.php:89 user-public-profile.php:94
+msgid "optional"
+msgstr "опционально"
+
+#: item.php:325
+msgid "Edit item"
+msgstr "Редактировать объявление"
+
+#: item.php:340
+msgid "Mark as..."
+msgstr "Отметить как:"
+
+#: item.php:341
+msgid "Mark as spam"
+msgstr "Спам"
+
+#: item.php:342
+msgid "Mark as misclassified"
+msgstr "Неверная категория"
+
+#: item.php:343
+msgid "Mark as duplicated"
+msgstr "Дубль"
+
+#: item.php:344
+msgid "Mark as expired"
+msgstr "Истёкшее"
+
+#: item.php:345
+msgid "Mark as offensive"
+msgstr "Оскорбительное"
+
+#: item.php:354
+msgid "Useful information"
+msgstr "Полезная информация"
+
+#: item.php:356
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Совершайте покупку на месте или с помощью защищённых платёжных систем"
+
+#: item.php:357
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Не платите при помощи анонимных платёжных систем"
+
+#: item.php:358
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr "Не покупайте за пределами своей страны"
+
+#: item.php:359
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Этот сайт не обрабатывает платежи, доставку, не даёт гарантий, не "
+"предоставляет услуг по \"защите покупателей\" или \"сертификации продавцов\""
+
+#: main.php:99 main.php:305
+msgid "Premium listings"
+msgstr "Премиум объявления"
+
+#: main.php:115 main.php:321 related_eva_ads.php:22 search_gallery.php:30
+#: search_list.php:30 user-dashboard.php:77 user-items.php:86
+msgid "Premium"
+msgstr "Премиум"
+
+#: main.php:159 main.php:365
+msgid "Popular listings"
+msgstr "Популярные объявления"
+
+#: main.php:174 main.php:380
+msgid "Popular"
+msgstr "Популярные"
+
+#: main.php:231
+msgid "Latest Listings"
+msgstr "Последние объявления"
+
+#: main.php:234
+msgid "No Latest Listings"
+msgstr "В данный момент нет объявлений"
+
+#: main.php:306
+msgid "See the best offers from our users."
+msgstr "Посмотрите популярные предложения от наших пользователей."
+
+#: main.php:412
+msgid "All offers"
+msgstr "Все объявления"
+
+#: related_eva_ads.php:6
+msgid "Related Ads"
+msgstr "Похожие объявления"
+
+#: search.php:94
+msgid "Close subscription"
+msgstr "Закрыть подписку"
+
+#: search.php:94
+msgid "Subscription"
+msgstr "Подписка"
+
+#: search.php:131
+msgid "All"
+msgstr "Все"
+
+#: search.php:132
+msgid "Individual"
+msgstr "Частные"
+
+#: search.php:133
+msgid "Companies"
+msgstr "Компании"
+
+#: search.php:168
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "Не найдено результатов по запросу \"%s\""
+
+#: search_list.php:68
+msgid "Latest items"
+msgstr "Последние объявления"
+
+#: search_module.php:18
+msgid "Close Filters"
+msgstr "Закрыть фильтр"
+
+#: search_module.php:18
+msgid "Filters"
+msgstr "Фильтры"
+
+#: search_module.php:30
+msgid "Your search"
+msgstr "Введите запрос"
+
+#: search_module.php:51 templates/mainsearch/inc.search.autocomplete.php:26
+msgid "Type a city"
+msgstr "Введите город"
+
+#: search_module.php:61
+msgid "Min"
+msgstr "Мин"
+
+#: search_module.php:62
+msgid "Max"
+msgstr "Макс"
+
+#: search_module.php:76
+msgid "Show only"
+msgstr "Показать только"
+
+#: search_module.php:80
+msgid "listings with pictures"
+msgstr "с фотографией"
+
+#: search_module.php:85
+msgid "SEARCH"
+msgstr "ПОИСК"
+
+#: search_module.php:100 templates/mainsearch/inc.search.autocomplete.php:49
+msgid "Selected"
+msgstr "Выбрано"
+
+#: search_module.php:101 templates/mainsearch/inc.search.autocomplete.php:50
+msgid "Nothing selected, input was"
+msgstr "Ничего не было выбрано"
+
+#. onsubmit="javascript:return doSearch();"
+#.
+#. * Copyright 2018 osclass-pro.com and osclass-pro.ru
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#. onsubmit="javascript:return doSearch();"
+#.
+#. * Copyright 2018 osclass-pro.com
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#. onsubmit="javascript:return doSearch();"
+#.
+#. * Copyright 2018 osclass-pro.com and osclass-pro.ru
+#. *
+#. * You shall not distribute this theme and any its files (except third-party libraries) to third parties.
+#. * Rental, leasing, sale and any other form of distribution are not allowed and are strictly forbidden.
+#.
+#. onsubmit="javascript:return doSearch();"
+#: templates/mainsearch/all.php:23
+#: templates/mainsearch/inc.search.autocomplete.php:14
+#: templates/mainsearch/inc.search.city.items.php:14
+#: templates/mainsearch/inc.search.city.items.php:20
+#: templates/mainsearch/inc.search.city.php:14
+#: templates/mainsearch/inc.search.city.php:20
+#: templates/mainsearch/inc.search.countries.php:14
+#: templates/mainsearch/inc.search.countries.php:20
+#: templates/mainsearch/inc.search.hide.php:14
+#: templates/mainsearch/inc.search.hide.php:20
+#: templates/mainsearch/inc.search.items.php:14
+#: templates/mainsearch/inc.search.items.php:20
+#: templates/mainsearch/inc.search.regions.php:13
+#: templates/mainsearch/inc.searchcitybyreg.php:20
+msgid "Select a category..."
+msgstr "Выбрать категорию..."
+
+#: templates/mainsearch/all.php:24 templates/mainsearch/all.php:39
+#: templates/mainsearch/all.php:52 templates/mainsearch/all.php:67
+#: templates/mainsearch/all.php:81
+#: templates/mainsearch/inc.search.autocomplete.php:15
+#: templates/mainsearch/inc.search.city.items.php:15
+#: templates/mainsearch/inc.search.city.php:15
+#: templates/mainsearch/inc.search.countries.php:15
+#: templates/mainsearch/inc.search.hide.php:15
+#: templates/mainsearch/inc.search.items.php:15
+#: templates/mainsearch/inc.search.regions.php:14
+#: templates/mainsearch/inc.searchcitybyreg.php:21
+#: templates/mainsearch/inc.searchcitybyreg.php:37
+#: templates/mainsearch/inc.searchcitybyreg.php:50
+msgid "None"
+msgstr "Нет"
+
+#: templates/mainsearch/all.php:51 templates/mainsearch/all.php:66
+msgid "Select a country first..."
+msgstr "Сначала выберите страну..."
+
+#: templates/mainsearch/all.php:80
+#: templates/mainsearch/inc.searchcitybyreg.php:49
+msgid "Select a region first..."
+msgstr "Сначала выберите регион..."
+
+#: templates/mainsearch/all.php:126
+msgid "No regions found"
+msgstr "Регионов не найдено."
+
+#: templates/mainsearch/all.php:178
+msgid "No cities found"
+msgstr "Не найдено"
+
+#: templates/mainsearch/inc.searchcitybyreg.php:94
+msgid "No result"
+msgstr "Нет результата"
+
+#: user-alerts.php:34 user-change_email.php:62 user-change_password.php:34
+#: user-change_username.php:79 user-custom.php:33 user-dashboard.php:40
+#: user-items.php:35 user-profile.php:38
+msgid "User account manager"
+msgstr "Аккаунт пользователя"
+
+#: user-alerts.php:44
+msgid "Your alerts"
+msgstr "Ваши оповещения"
+
+#: user-alerts.php:50
+msgid "You do not have any alerts yet"
+msgstr "У Вас нет активных подписок"
+
+#: user-alerts.php:56
+msgid "Alert"
+msgstr "Оповещение"
+
+#: user-alerts.php:56
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Это действие нельзя отменить. Вы уверены что хотите продолжить?"
+
+#: user-alerts.php:56
+msgid "Delete this alert"
+msgstr "Удалить это оповещение"
+
+#: user-alerts.php:61 user-dashboard.php:67 user-items.php:47
+msgid "No listings have been added yet"
+msgstr "Объявлений пока не добавлено"
+
+#: user-change_email.php:33
+msgid "Email: this field is required"
+msgstr "Email: это поле обязательное"
+
+#: user-change_email.php:72
+msgid "Change your e-mail"
+msgstr "Изменить e-mail"
+
+#: user-change_email.php:80
+msgid "Current e-mail"
+msgstr "Текущий e-mail"
+
+#: user-change_email.php:88
+msgid "New e-mail"
+msgstr "Новый e-mail"
+
+#: user-change_password.php:43
+msgid "Change your password"
+msgstr "Изменить пароль"
+
+#: user-change_password.php:50
+msgid "Current password"
+msgstr "Текущий пароль"
+
+#: user-change_password.php:56 user-forgot_password.php:38
+msgid "New password"
+msgstr "Новый пароль"
+
+#: user-change_password.php:62 user-forgot_password.php:42
+msgid "Repeat new password"
+msgstr "Повторите новый пароль"
+
+#: user-change_username.php:34
+msgid "Username: this field is required"
+msgstr "Логин: это поле является обязательным"
+
+#: user-change_username.php:59
+msgid "The username is available"
+msgstr "Имя пользователя доступно"
+
+#: user-change_username.php:61
+msgid "The username is NOT available"
+msgstr "Имя пользователя НЕ доступно"
+
+#: user-change_username.php:85
+msgid "Change your username"
+msgstr "Изменить имя пользователя"
+
+#: user-change_username.php:92
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: user-change_username.php:96
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"Важно: если Вы захотите изменить имя на прежнее. Возможно оно уже не будет "
+"занято."
+
+#: user-dashboard.php:58
+#, php-format
+msgid "Latest listings from %s"
+msgstr "Последние объявления от %s"
+
+#: user-dashboard.php:62
+msgid "Post a new listing"
+msgstr "Опубликовать новое объявление"
+
+#: user-dashboard.php:76
+msgid "Activated"
+msgstr "Включено"
+
+#: user-dashboard.php:76 user-items.php:85
+msgid "Inactivated"
+msgstr "отключено"
+
+#: user-dashboard.php:78 user-items.php:87
+msgid "Spam"
+msgstr "Спам"
+
+#: user-dashboard.php:88
+msgid "Publication date"
+msgstr "Дата публикации"
+
+#: user-dashboard.php:98 user-items.php:90
+msgid "Edit"
+msgstr "Редактировать"
+
+#: user-dashboard.php:100 user-items.php:91
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Это действие нельзя отменить. Хотите продолжить?"
+
+#: user-forgot_password.php:30 user-recover.php:37
+msgid "Recover your password"
+msgstr "Восстановить пароль"
+
+#: user-forgot_password.php:45
+msgid "Change password"
+msgstr "Изменить пароль"
+
+#: user-items.php:45
+msgid "Listings"
+msgstr "Объявления"
+
+#: user-items.php:85
+msgid "Active"
+msgstr "Активно"
+
+#: user-login.php:35
+msgid "Access to your account"
+msgstr "Вход на сайт"
+
+#: user-login.php:40
+msgid "Password"
+msgstr "Пароль"
+
+#: user-login.php:45
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: user-login.php:48
+msgid "Log in"
+msgstr "Вход"
+
+#: user-login.php:53
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+#: user-profile.php:52
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr "Все Ваши объявления будут удалены, это действие нельзя будет отменить."
+
+#: user-profile.php:64
+msgid "Update your profile"
+msgstr "Обновить профиль"
+
+#: user-profile.php:82
+msgid "Modify e-mail"
+msgstr "Именить e-mail"
+
+#: user-profile.php:85
+msgid "Modify password"
+msgstr "Изменить пароль"
+
+#: user-profile.php:92
+msgid "User type"
+msgstr "Тип пользователя"
+
+#: user-profile.php:100
+msgid "Cell phone"
+msgstr "Мобильный телефон"
+
+#: user-profile.php:107
+msgid "Phone"
+msgstr "Телефон"
+
+#: user-profile.php:133
+msgid "Website"
+msgstr "Вебсайт"
+
+#: user-profile.php:137
+msgid "User Description"
+msgstr "Описание"
+
+#: user-profile.php:144
+msgid "Delete my account"
+msgstr "Удалить аккаунт"
+
+#: user-public-profile.php:61
+msgid "Register date"
+msgstr "Дата регистрации"
+
+#: user-public-profile.php:112
+msgid "Latest listings"
+msgstr "Последние объявления"
+
+#: user-recover.php:44
+msgid "Send me a new password"
+msgstr "Выслать мне новый пароль"
+
+#: user-register.php:36
+msgid "Register an account for free"
+msgstr "Регистрация"
+
+#: user-register.php:38
+msgid "Name *"
+msgstr "Имя *"
+
+#: user-register.php:41
+msgid "Password *"
+msgstr "Пароль *"
+
+#: user-register.php:44
+msgid "Re-type password *"
+msgstr "Повторите пароль *"
+
+#: user-register.php:47
+msgid "Passwords don't match"
+msgstr "Пароли не совпадают"
+
+#: user-register.php:50
+msgid "E-mail *"
+msgstr "E-mail *"
+
+#: user-register.php:53
+msgid "Mobile Phone"
+msgstr "Мобильный телефон"
+
+#: user-register.php:62
+msgid "* This field is required"
+msgstr "* Обязательные поля"
+
+#: user-register.php:76
+msgid "Create"
+msgstr "Регистрация"

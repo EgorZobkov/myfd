@@ -1,0 +1,1 @@
+function redlink(t){window.location=t.tlink}$(function(){$("#tabs").tabs(),$(".cats, .sub-cats").accordion({active:!1,collapsible:!0,heightStyle:"content"});});

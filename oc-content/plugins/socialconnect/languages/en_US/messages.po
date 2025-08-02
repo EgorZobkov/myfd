@@ -1,0 +1,331 @@
+# Copyright (C) 2012 Job Board
+# This file is distributed under the same license as the Job Board package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Social  Connect\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-12 12:07+0200\n"
+"PO-Revision-Date: 2017-04-12 12:07+0200\n"
+"Last-Translator: carlos <carlos@osclass.org>\n"
+"Language-Team: Translations <translations@osclass.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n !=1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/conf.php:26
+msgid "Congratulations, the plugin is now configured"
+msgstr ""
+
+#: admin/conf.php:50 admin/conf.php:51 admin/conf.php:52 admin/conf.php:53
+#: admin/conf.php:54 admin/conf.php:55 admin/conf.php:72 admin/conf.php:131
+#: admin/conf.php:159 admin/conf.php:187 admin/conf.php:214 admin/conf.php:241
+#: admin/conf.php:268
+msgid "Enabled"
+msgstr ""
+
+#: admin/conf.php:66
+#, fuzzy
+msgid "General Settings"
+msgstr "Preferencias"
+
+#: admin/conf.php:70
+msgid "Enable autoregister"
+msgstr ""
+
+#: admin/conf.php:73
+msgid ""
+"An account will be created for users login through any social media if they "
+"don' have one already."
+msgstr ""
+
+#: admin/conf.php:77
+msgid "Button width"
+msgstr ""
+
+#: admin/conf.php:79
+msgid "Fixed width"
+msgstr ""
+
+#: admin/conf.php:80
+msgid "Choose button width between <b>fixed width</b> or <b>100% width</b>."
+msgstr ""
+
+#: admin/conf.php:84
+msgid "Enable Debug"
+msgstr ""
+
+#: admin/conf.php:86
+msgid "Debug enabled"
+msgstr ""
+
+#: admin/conf.php:87
+msgid ""
+"If you are having problems, it could help identify the root of the cause. "
+"Log files could grow very fast, remember to disable this option if not using "
+"it."
+msgstr ""
+
+#: admin/conf.php:91 admin/conf.php:114 admin/conf.php:143 admin/conf.php:171
+#: admin/conf.php:199 admin/conf.php:226 admin/conf.php:253 admin/conf.php:280
+#, fuzzy
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: admin/conf.php:100
+msgid "Preview - Order buttons"
+msgstr ""
+
+#: admin/conf.php:109
+msgid ""
+"Simply drag and drop the button into the desired position. It’s that simple."
+msgstr ""
+
+#: admin/conf.php:110
+msgid "Note: Only enabled networks will appear at frontend (login/register)."
+msgstr ""
+
+#: admin/conf.php:121
+msgid "Social networks"
+msgstr ""
+
+#: admin/conf.php:129
+msgid "Enable Facebook login"
+msgstr ""
+
+#: admin/conf.php:135 admin/conf.php:163
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/conf.php:139 admin/conf.php:167
+msgid "Facebook App Secret"
+msgstr ""
+
+#: admin/conf.php:144 admin/conf.php:172 admin/conf.php:200 admin/conf.php:227
+#: admin/conf.php:254 admin/conf.php:281 admin/header.php:32 admin/help.php:16
+#: index.php:53
+#, fuzzy
+msgid "Help"
+msgstr "Ayuda"
+
+#: admin/conf.php:157
+msgid "Enable Google login"
+msgstr ""
+
+#: admin/conf.php:185
+msgid "Enable Twitter login"
+msgstr ""
+
+#: admin/conf.php:191
+msgid "Consumer Key (API Key)"
+msgstr ""
+
+#: admin/conf.php:195
+msgid "Consumer Secret (API Secret)"
+msgstr ""
+
+#: admin/conf.php:212
+msgid "Enable Linkedin login"
+msgstr ""
+
+#: admin/conf.php:218
+msgid "Consumer Key (ID)"
+msgstr ""
+
+#: admin/conf.php:222
+msgid "Consumer Secret (Secret)"
+msgstr ""
+
+#: admin/conf.php:239
+msgid "Enable Instagram login"
+msgstr ""
+
+#: admin/conf.php:245
+msgid "Client Id (ID)"
+msgstr ""
+
+#: admin/conf.php:249
+msgid "Client Secret (Secret)"
+msgstr ""
+
+#: admin/conf.php:266
+msgid "Enable Windows Live login"
+msgstr ""
+
+#: admin/conf.php:272
+msgid "Application Id (ID)"
+msgstr ""
+
+#: admin/conf.php:276
+#, fuzzy
+msgid "Password"
+msgstr "Contraseña"
+
+#: admin/conf.php:484
+#, php-format
+msgid "Go to <a href=\"%s\">%s</a> and create a new application."
+msgstr ""
+
+#: admin/conf.php:486 admin/conf.php:503
+msgid ""
+"Fill out any required fields such as the application name and description."
+msgstr ""
+
+#: admin/conf.php:487
+#, php-format
+msgid "Put your website (%s) domain in the Website field."
+msgstr ""
+
+#: admin/conf.php:488
+#, php-format
+msgid "Provide this URL as the Callback URL for your application: %s"
+msgstr ""
+
+#: admin/conf.php:560
+#, php-format
+msgid "How to configure %s login"
+msgstr ""
+
+#: admin/header.php:27 index.php:208
+msgid "Social connect settings"
+msgstr ""
+
+#: admin/header.php:30 index.php:52
+#, fuzzy
+msgid "Settings"
+msgstr "Preferencias"
+
+#: admin/header.php:31
+msgid "Stats"
+msgstr ""
+
+#: admin/help.php:18
+msgid ""
+"Once your plugin is configured you only need to add one line of code to your "
+"theme:"
+msgstr ""
+
+#: admin/stats.php:18
+msgid "Statistics"
+msgstr ""
+
+#: admin/stats.php:53
+#, fuzzy
+msgid "Region"
+msgstr "Región"
+
+#: admin/stats.php:54
+msgid "Users per region"
+msgstr ""
+
+#: admin/stats.php:57
+msgid "Unknown"
+msgstr ""
+
+#: admin/stats.php:61
+msgid "Social Network Register Percentage"
+msgstr ""
+
+#: admin/stats.php:63
+msgid "There're no statistics yet"
+msgstr ""
+
+#: class/SCClass.php:138
+msgid "Social provider not allowed"
+msgstr ""
+
+#: class/SCClass.php:143
+msgid "Something went wrong"
+msgstr ""
+
+#: class/SCClass.php:167
+msgid "Something went wrong, not a valid user"
+msgstr ""
+
+#: class/SCClass.php:199
+msgid "Account linked to another user user"
+msgstr ""
+
+#: class/SCClass.php:269
+msgid "Error linking your account."
+msgstr ""
+
+#: class/SCClass.php:273
+msgid "Error linking your account.."
+msgstr ""
+
+#: class/SCClass.php:281
+msgid "Error, account not linked to any user"
+msgstr ""
+
+#: index.php:58 user/manage.php:28
+msgid "Social accounts"
+msgstr ""
+
+#: index.php:134
+msgid "Sign in with Facebook"
+msgstr ""
+
+#: index.php:137
+msgid "Sign in with Google"
+msgstr ""
+
+#: index.php:140
+msgid "Sign in with Twitter"
+msgstr ""
+
+#: index.php:143
+msgid "Sign in with Linkedin"
+msgstr ""
+
+#: index.php:146
+msgid "Sign in with Instagram"
+msgstr ""
+
+#: index.php:149
+msgid "Sign in with Microsoft"
+msgstr ""
+
+#: index.php:166
+#, php-format
+msgid ""
+"No email provided, <b>add your email so users can contact you</b>. <a href="
+"\"%s\">Edit profile</a>"
+msgstr ""
+
+#: index.php:211
+msgid "Social connect statistics"
+msgstr ""
+
+#: index.php:214
+msgid "Social connect help"
+msgstr ""
+
+#: user/manage.php:8
+msgid "Account unlinked correctly"
+msgstr ""
+
+#: user/manage.php:123
+msgid "Are you sure to unlink your account?"
+msgstr ""
+
+#: user/manage.php:123
+msgid "Unlink account"
+msgstr ""
+
+#: user/manage.php:135
+msgid "You can link your account with the following providers:"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Google"
+#~ msgstr "Cargar librería Google Maps javascript"
+
+#~ msgid "Highlight enhancement for listing %d"
+#~ msgstr "Highlight enhancement for listing %d"

@@ -1,0 +1,13 @@
+What is the Auction Plugin?
+
+The Auction Plugin creates a new and quicker way for buyers to submit auctions to the seller.
+
+
+How does Bid Button plugin work?
+
+This plugin places a button on items that the user wants to accept auctions on. Then the user can easly submit his/her auction to the seller.
+
+
+How do I install the Bid Button plugin?
+
+You have to edit your item.php file in your theme folder. Then add the following line <?php auction_button(); ?> anywhere you want the auction button to show up.

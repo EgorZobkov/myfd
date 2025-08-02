@@ -1,0 +1,22 @@
+OSClass auction Plugin is a revolutionary plugin which allows you to host auctions on your listing completely fee free! Show your auctions in an attractive AJAX powered popup for optimum user experience.
+
+
+
+Key Features:
+
+Non Logged in and Register users can now place offers as long as the feature is enabled.
+
+Seller can enable the auction by tick on auction option.
+
+Added the ability for the seller to contact the potential buyer.
+
+Sellers can lock buyers from placing Spam Bids if the admin has the option enabled.
+
+Sellers can delete Bids as long as the admin has that option enabled.
+
+Buyer can submit more Bids once Bids declined.
+
+Email notifications.
+
+Upgraded to the DAO
+

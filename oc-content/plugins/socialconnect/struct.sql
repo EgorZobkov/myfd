@@ -1,0 +1,10 @@
+CREATE TABLE /*TABLE_PREFIX*/t_social_connect (
+  pk_i_id INT NOT NULL AUTO_INCREMENT ,
+  fk_i_user_id INT NOT NULL,
+  i_provider_id VARCHAR(255) NOT NULL,
+  s_provider VARCHAR(10) NOT NULL,
+  s_picture_profile VARCHAR(300) NOT NULL DEFAULT "",
+  PRIMARY KEY (pk_i_id)
+) ENGINE = MYISAM DEFAULT CHARACTER SET 'UTF8' COLLATE 'UTF8_GENERAL_CI';
+
+

@@ -1,0 +1,776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SMS Notification and Verification Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-13 14:43+0200\n"
+"PO-Revision-Date: 2023-04-06 10:35+0300\n"
+"Last-Translator: Miso <miso546@azet.sk>\n"
+"Language-Team: MB Themes <info@mb-themes.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: __;_e;_m\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: languages/en_US\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/configure.php:3 admin/configure.php:52 index.php:354 index.php:363
+#: index.php:396
+msgid "Configure"
+msgstr "Конфигурировать"
+
+#: admin/configure.php:36 admin/provider.php:50
+msgid "Settings were successfully saved"
+msgstr "Настройки были успешно сохранены"
+
+#: admin/configure.php:46
+msgid ""
+"Plugin will automatically identify phone number field for listings on "
+"OsclassPoint themes, Telephone plugin or Custom field that is set as phone "
+"number"
+msgstr ""
+"Плагин автоматически определит поле телефонного номера для объявлений на "
+"темах OsclassPoint, телефонный плагин или пользовательское поле, которое "
+"установлено в качестве номера телефона"
+
+#: admin/configure.php:64
+msgid "Admin Phone Number"
+msgstr "Номер Телефона Администратора"
+
+#: admin/configure.php:67
+msgid "To receive SMS notifications. Format with +, no white spaces."
+msgstr "Для получения SMS-уведомлений. Формат с +7, и без пробелов."
+
+#: admin/configure.php:71
+msgid "Site Name - Shortcut"
+msgstr "Имя Сайта-Ярлык"
+
+#: admin/configure.php:74
+msgid ""
+"Your site name used in SMS. Should be shortest possible, max 20 chars. Good "
+"example: OsclassPoint Bad example: Osclass themes and plugins - OsclassPoint."
+"com."
+msgstr ""
+"Ваше имя сайта, используемое в SMS. Должно быть как можно короче, максимум "
+"20 символов. Хороший пример: OsclassPoint плохой пример: темы и плагины "
+"Osclass - OsclassPoint.com-да."
+
+#: admin/configure.php:78
+msgid "SMS Provider (gateway)"
+msgstr "SMS-провайдер (шлюз)"
+
+#: admin/configure.php:86
+msgid ""
+"Select SMS gateway / provider used to send messages. Note that selected "
+"provider must be configured in \"SMS Providers\" section first."
+msgstr ""
+"Выберите SMS-шлюз / провайдер, используемый для отправки сообщений. Обратите "
+"внимание, что выбранный провайдер должен быть настроен в разделе \"SMS-"
+"провайдеры\" в первую очередь."
+
+#: admin/configure.php:91
+msgid "Phone Number Verification"
+msgstr "Проверка номера телефона"
+
+#: admin/configure.php:94
+msgid ""
+"When enabled, phone number used on user register / item post page must be "
+"verified. These fields will be required as well."
+msgstr ""
+"Если этот параметр включен, необходимо проверить номер телефона, "
+"используемый на странице регистрации пользователя / публикации товара. Эти "
+"поля также будут необходимы."
+
+#: admin/configure.php:98
+msgid "Preferred Countries"
+msgstr "Предпочитаемые Страны"
+
+#: admin/configure.php:101
+msgid ""
+"Countries those will be at top of list with country code prefixes. Example: "
+"gb,us,de"
+msgstr ""
+"Страны, которые будут находиться в верхней части списка с префиксами кодов "
+"стран. Пример: gb, us, de"
+
+#: admin/configure.php:105
+msgid "Initial Country"
+msgstr "Начальная Страна"
+
+#: admin/configure.php:108
+msgid ""
+"Default country selected for every user. If left blank, plugin will try to "
+"auto-locate user and fill country code based on its IP address. Example: us"
+msgstr ""
+"Страна по умолчанию выбрана для каждого пользователя. Если оставить его "
+"пустым, плагин попытается автоматически найти пользователя и заполнить код "
+"страны на основе его IP-адреса. Пример: США"
+
+#: admin/configure.php:113
+msgid "Custom Field Phone Identifier"
+msgstr "Пользовательское Поле Идентификатор Телефона"
+
+#: admin/configure.php:116
+msgid ""
+"Identifier of custom field used for phone number input on items (Listings > "
+"Custom Fields > Advanced > Identifier Name). Input should be text type. "
+"Field is optional, if your theme already has phone number field or telephone "
+"plugin is used."
+msgstr ""
+"Идентификатор настраиваемого поля, используемого для ввода номера телефона в "
+"элементах (списки > Настраиваемые поля > дополнительно > имя "
+"идентификатора). Ввод должен быть текстового типа. Поле является "
+"необязательным, если в вашей теме уже есть поле номера телефона или "
+"используется телефонный плагин."
+
+#: admin/configure.php:121
+msgid "User SMS notification settings"
+msgstr "Настройки SMS-уведомлений пользователя"
+
+#: admin/configure.php:126
+msgid "Account Validation"
+msgstr "Проверка Учетной Записи"
+
+#: admin/configure.php:129
+msgid "When enabled, user will receive SMS with account validation link."
+msgstr ""
+"Если этот параметр включен, пользователь получит SMS-сообщение со ссылкой "
+"для проверки учетной записи."
+
+#: admin/configure.php:133
+msgid "Password Reset"
+msgstr "Сброс пароля"
+
+#: admin/configure.php:136
+msgid "When enabled, user will receive SMS with link to reset its password."
+msgstr ""
+"Если этот параметр включен, пользователь получит SMS-сообщение со ссылкой "
+"для сброса пароля."
+
+#: admin/configure.php:140
+msgid "Item Validation"
+msgstr "Проверка позиции"
+
+#: admin/configure.php:143
+msgid ""
+"When enabled, user will receive SMS with link to validate newly published "
+"listing."
+msgstr ""
+"Если этот параметр включен, пользователь получит SMS-сообщение со ссылкой "
+"для проверки недавно опубликованного списка."
+
+#: admin/configure.php:147
+msgid "Item Activated"
+msgstr "Пункт Активировать"
+
+#: admin/configure.php:150
+msgid ""
+"When enabled, user will receive confirmation SMS that item has been "
+"activated."
+msgstr ""
+"При включении пользователь получит SMS-подтверждение о том, что товар был "
+"активирован."
+
+#: admin/configure.php:154
+msgid "Item Publish"
+msgstr "Публикация товара"
+
+#: admin/configure.php:157
+msgid ""
+"When enabled, user will receive confirmation SMS that item has been "
+"published (if validation is not required)."
+msgstr ""
+"Если этот параметр включен, пользователь получит SMS-подтверждение о том, "
+"что элемент был опубликован (если проверка не требуется)."
+
+#: admin/configure.php:161
+msgid "Item Contact Form"
+msgstr "Контактная форма объявления"
+
+#: admin/configure.php:164
+msgid ""
+"When enabled, user will receive SMS with notification that someone has used "
+"contact form on its listing (with brief message details)."
+msgstr ""
+"Если этот параметр включен, пользователь получит SMS-сообщение с "
+"уведомлением о том, что кто-то использовал контактную форму в своем списке "
+"(с краткими деталями сообщения)."
+
+#: admin/configure.php:168
+msgid "Admin SMS notification settings"
+msgstr "Настройки SMS-уведомлений администратора"
+
+#: admin/configure.php:172
+msgid "Web Contact Form"
+msgstr "Веб-Контактная Форма"
+
+#: admin/configure.php:175
+msgid ""
+"When enabled, admin will receive SMS notification that web contact form has "
+"been used (with brief message details)."
+msgstr ""
+"Если этот параметр включен, администратор получит SMS-уведомление о том, что "
+"была использована веб-контактная форма (с краткими сведениями о сообщении)."
+
+#: admin/configure.php:179
+msgid "New Listing Published"
+msgstr "Опубликовано Новое Объявление"
+
+#: admin/configure.php:182
+msgid ""
+"When enabled, admin will receive SMS notification that new listing has been "
+"added on site."
+msgstr ""
+"Если этот параметр включен, администратор получит SMS-уведомление о том, что "
+"новый список был добавлен на сайт."
+
+#: admin/configure.php:186
+msgid "New User Registered"
+msgstr "Зарегистрирован Новый Пользователь"
+
+#: admin/configure.php:189
+msgid ""
+"When enabled, admin will receive SMS notification when new user has "
+"registered on site."
+msgstr ""
+"Если этот параметр включен, администратор будет получать SMS-уведомление о "
+"регистрации нового пользователя на сайте."
+
+#: admin/configure.php:197 admin/provider.php:406
+msgid "This is demo site"
+msgstr "Это демонстрационный сайт"
+
+#: admin/configure.php:197 admin/configure.php:199 admin/provider.php:406
+#: admin/provider.php:408
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/log_sms.php:3 admin/log_sms.php:18 index.php:365 index.php:398
+msgid "SMS Logs"
+msgstr "Журналы SMS-сообщений"
+
+#: admin/log_sms.php:22
+msgid "Last 5000 sms logs are shown."
+msgstr "Отображаются последние 5000 журналов sms-сообщений."
+
+#: admin/log_sms.php:23
+msgid "You cannot remove sms log."
+msgstr "Вы не можете удалить журнал sms."
+
+#: admin/log_sms.php:28
+msgid "ID"
+msgstr "ID"
+
+#: admin/log_sms.php:29 form/verify.php:59
+msgid "User"
+msgstr "Пользователь"
+
+#: admin/log_sms.php:30
+msgid "Phone"
+msgstr "Мобильный телефон *"
+
+#: admin/log_sms.php:31 admin/provider.php:450
+msgid "Message"
+msgstr "Сообщение"
+
+#: admin/log_sms.php:32 admin/log_verification.php:33
+msgid "Date"
+msgstr "Дата "
+
+#: admin/log_sms.php:33
+msgid "Action"
+msgstr "Действие"
+
+#: admin/log_sms.php:34 admin/log_verification.php:31 admin/provider.php:435
+#: admin/provider.php:486
+msgid "Provider"
+msgstr "Провайдер"
+
+#: admin/log_sms.php:35
+msgid "Response"
+msgstr "Ответ"
+
+#: admin/log_sms.php:36 admin/log_verification.php:32
+msgid "Status"
+msgstr "Статус"
+
+#: admin/log_sms.php:41
+msgid "No sms logs has been found"
+msgstr "Никаких журналов sms не было найдено"
+
+#: admin/log_sms.php:56
+msgid "Click to open response"
+msgstr "Нажмите, чтобы открыть ответ"
+
+#: admin/log_sms.php:56
+msgid "Response details"
+msgstr "Подробности ответа"
+
+#: admin/log_sms.php:62
+msgid "RESPONSE:"
+msgstr "ОТВЕТ:"
+
+#: admin/log_sms.php:65
+msgid "ERROR:"
+msgstr "ОШИБКА:"
+
+#: admin/log_verification.php:3 admin/log_verification.php:18
+msgid "Phone Number Verification Logs"
+msgstr "Журналы Проверки Телефонных Номеров"
+
+#: admin/log_verification.php:22
+msgid "Last 5000 verification logs are shown."
+msgstr "Показаны последние 5000 журналов проверки."
+
+#: admin/log_verification.php:23
+msgid "You cannot remove verification log."
+msgstr "Вы не можете удалить Журнал проверки."
+
+#: admin/log_verification.php:28
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: admin/log_verification.php:29
+msgid "User Email"
+msgstr "Email пользователя"
+
+#: admin/log_verification.php:30
+msgid "Verification Code"
+msgstr "Код подтверждения"
+
+#: admin/log_verification.php:38
+msgid "No verification logs has been found"
+msgstr "Никаких журналов проверки обнаружено не было"
+
+#: admin/provider.php:3
+msgid "provider"
+msgstr "исполнитель"
+
+#: admin/provider.php:60
+#, php-format
+msgid "SMS has been sent. Provider response: %s"
+msgstr "Было отправлено SMS-сообщение. Ответ поставщика: %s"
+
+#: admin/provider.php:62
+#, php-format
+msgid "There was error while sending SMS. Provider response: %s"
+msgstr "Произошла ошибка при отправке SMS-сообщения. Ответ поставщика: %s"
+
+#: admin/provider.php:72
+#, php-format
+msgid "There was problem to retrieve balance: %s"
+msgstr "Возникла проблема с получением баланса: %s"
+
+#: admin/provider.php:74
+#, php-format
+msgid "Balance successfully retrieved. Your balance is: %s"
+msgstr "Баланс успешно восстановлен. Ваш баланс составляет: %s"
+
+#: admin/provider.php:98 index.php:364 index.php:397
+msgid "SMS Providers"
+msgstr "Поставщики SMS-сообщений"
+
+#: admin/provider.php:115
+msgid "Twilio.com"
+msgstr "Twilio.com"
+
+#: admin/provider.php:121 admin/provider.php:122 admin/provider.php:155
+#: admin/provider.php:156 admin/provider.php:184 admin/provider.php:185
+#: admin/provider.php:213 admin/provider.php:214 admin/provider.php:243
+#: admin/provider.php:244 admin/provider.php:278 admin/provider.php:306
+#: admin/provider.php:307 admin/provider.php:336 admin/provider.php:337
+#: admin/provider.php:376 admin/provider.php:377
+msgid "Link will open in new window"
+msgstr "Ссылка откроется в новом окне"
+
+#: admin/provider.php:121
+msgid "Twilio Dashboard"
+msgstr "Панель Мониторинга Twilio"
+
+#: admin/provider.php:122
+msgid "Twilio Docs"
+msgstr "Twilio Docs"
+
+#: admin/provider.php:127
+msgid "Twilio Account SID"
+msgstr "SID учетной записи Twilio"
+
+#: admin/provider.php:132
+msgid "Twilio Auth Token"
+msgstr "Twilio AUTH TOKEN"
+
+#: admin/provider.php:137
+msgid "Twilio Phone Number"
+msgstr "Номер телефона Twilio"
+
+#: admin/provider.php:149
+msgid "GatewayAPI.com"
+msgstr "GatewayAPI.com"
+
+#: admin/provider.php:155
+msgid "GatewayAPI Home"
+msgstr "GatewayAPI Home"
+
+#: admin/provider.php:156
+msgid "GatewayAPI Docs"
+msgstr "Документы GatewayAPI"
+
+#: admin/provider.php:161
+msgid "GatewayAPI API Token"
+msgstr "GatewayAPI API Token"
+
+#: admin/provider.php:166
+msgid "GatewayAPI Sender"
+msgstr "GatewayAPI Отправитель"
+
+#: admin/provider.php:178
+msgid "RingCaptcha"
+msgstr "RingCaptcha"
+
+#: admin/provider.php:184
+msgid "RingCaptcha Dashboard"
+msgstr "Приборная панель RingCaptcha"
+
+#: admin/provider.php:185
+msgid "RingCaptcha Docs"
+msgstr " RingCaptcha документация"
+
+#: admin/provider.php:189
+msgid "RingCaptcha App Key"
+msgstr "Ключ приложения RingCaptcha"
+
+#: admin/provider.php:194
+msgid "RingCaptcha Api Key"
+msgstr "RingCaptcha Api Key"
+
+#: admin/provider.php:207
+msgid "TextLocal.com"
+msgstr "TextLocal.com"
+
+#: admin/provider.php:213
+msgid "TextLocal.com Home"
+msgstr "TextLocal.com Главная"
+
+#: admin/provider.php:214
+msgid "TextLocal.com Docs"
+msgstr "TextLocal.com документация"
+
+#: admin/provider.php:219
+msgid "TextLocal.com Api Key"
+msgstr "TextLocal.com Api Key"
+
+#: admin/provider.php:224
+msgid "TextLocal.com Sender"
+msgstr "TextLocal.com Отправитель"
+
+#: admin/provider.php:237
+msgid "TextLocal.in"
+msgstr "TextLocal.in"
+
+#: admin/provider.php:243
+msgid "TextLocal.in Home"
+msgstr "TextLocal.in Главная"
+
+#: admin/provider.php:244
+msgid "TextLocal.in Docs"
+msgstr "TextLocal.in документация"
+
+#: admin/provider.php:249
+msgid "TextLocal.in Api Key"
+msgstr "TextLocal.in Api Key"
+
+#: admin/provider.php:254
+msgid "TextLocal.in Sender Id"
+msgstr "TextLocal.in Sender Id"
+
+#: admin/provider.php:259
+msgid "TextLocal.in Password"
+msgstr "TextLocal.in пароль"
+
+#: admin/provider.php:272
+msgid "Way2SMS"
+msgstr "Way2SMS"
+
+#: admin/provider.php:278
+msgid "Way2SMS Home"
+msgstr "Way2SMS Главная"
+
+#: admin/provider.php:282
+msgid "Way2SMS Username"
+msgstr "Имя пользователя Way2SMS"
+
+#: admin/provider.php:287
+msgid "Way2SMS Password"
+msgstr "Way2SMS Пароль"
+
+#: admin/provider.php:300
+msgid "Msg91"
+msgstr "Msg91"
+
+#: admin/provider.php:306
+msgid "Msg91 Home"
+msgstr "Msg91 Главная"
+
+#: admin/provider.php:307
+msgid "Msg91 Docs"
+msgstr "Msg91 документация"
+
+#: admin/provider.php:312
+msgid "Msg91 Api Key"
+msgstr "Msg91 Api Key"
+
+#: admin/provider.php:317
+msgid "Msg91 Sender Id"
+msgstr "Msg91 Отправитель Id"
+
+#: admin/provider.php:330
+msgid "Budget SMS"
+msgstr "Бюджетные СМС"
+
+#: admin/provider.php:336
+msgid "Budget SMS Dashboard"
+msgstr "Бюджетная SMS панель"
+
+#: admin/provider.php:337
+msgid "Budget SMS Docs"
+msgstr "Бюджетные СМС документы"
+
+#: admin/provider.php:342
+msgid "Budget SMS User Id"
+msgstr "Бюджетный SMS-идентификатор пользователя"
+
+#: admin/provider.php:347
+msgid "Budget SMS Username"
+msgstr "Бюджетные SMS Имя пользователя"
+
+#: admin/provider.php:352
+msgid "Budget SMS From"
+msgstr "Бюджетные SMS от"
+
+#: admin/provider.php:357
+msgid "Budget SMS Handle"
+msgstr "Бюджетная SMS-разборка"
+
+#: admin/provider.php:370
+msgid "Plivo"
+msgstr "Plivo"
+
+#: admin/provider.php:376
+msgid "Plivo Dashboard"
+msgstr "Приборная панель Plivo"
+
+#: admin/provider.php:377
+msgid "Plivo Docs"
+msgstr "Доктора Пливо"
+
+#: admin/provider.php:382
+msgid "Plivo Smsh Id"
+msgstr "Пливо Шмш Ид"
+
+#: admin/provider.php:387
+msgid "Plivo Sender Id"
+msgstr "Plivo Sender Id"
+
+#: admin/provider.php:392
+msgid "Plivo Smsh Token"
+msgstr "Пливо Шмш Токен"
+
+#: admin/provider.php:418
+msgid "Test SMS sending"
+msgstr "Отправка тестовых SMS-сообщений"
+
+#: admin/provider.php:429
+msgid "You can test functionality of each SMS provider here."
+msgstr "Здесь вы можете проверить функциональность каждого SMS-провайдера."
+
+#: admin/provider.php:445
+msgid "Phone Number (with +)"
+msgstr "Номер телефона (с +7)"
+
+#: admin/provider.php:446
+msgid "Type phone number..."
+msgstr "Введите номер телефона..."
+
+#: admin/provider.php:451
+msgid "Enter message (max 160 chars)"
+msgstr "Введите сообщение (до 160 символов)"
+
+#: admin/provider.php:456
+msgid "Send SMS"
+msgstr "Отправить SMS"
+
+#: admin/provider.php:469 admin/provider.php:498
+msgid "Check balance"
+msgstr "Проверьте баланс"
+
+#: admin/provider.php:480
+msgid ""
+"Check what balance is on your account. Note that not all gateways support "
+"this feature."
+msgstr ""
+"Проверьте, какой баланс находится на вашем счете. Обратите внимание, что не "
+"все шлюзы поддерживают эту функцию."
+
+#: form/verify.php:14 form/verify.php:35
+msgid "Phone number has already been verified"
+msgstr "Номер телефона уже проверен"
+
+#: form/verify.php:23
+msgid "Item does not exists."
+msgstr "Элемент не существует."
+
+#: form/verify.php:45
+msgid "Verify your phone number"
+msgstr "Проверьте свой номер телефона"
+
+#: form/verify.php:62
+msgid "Item"
+msgstr "Пункт"
+
+#: form/verify.php:68
+msgid "Mobile Phone"
+msgstr "Мобильный телефон *"
+
+#: form/verify.php:72
+msgid "Send verification code"
+msgstr "Отправить проверочный код"
+
+#: form/verify.php:84
+msgid "Please enter verification code we sent to"
+msgstr "Пожалуйста, введите проверочный код, который мы отправили вам"
+
+#: form/verify.php:91
+msgid "Verify"
+msgstr "Проверить"
+
+#: functions.php:302
+msgid "Balance retrieval for this provider is not supported"
+msgstr "Извлечение баланса для этого поставщика не поддерживается"
+
+#: functions.php:362 functions.php:393
+msgid "Provider returned error with code:"
+msgstr "Поставщик вернул ошибку с кодом:"
+
+#: functions.php:373 functions.php:384 functions.php:406
+msgid "Provider returned error:"
+msgstr "Поставщик вернул ошибку:"
+
+#: functions.php:422
+#, php-format
+msgid "Hi admin, new message from %s on topic %s: %s"
+msgstr "Привет админ, новое сообщение от %s по теме %s: %s"
+
+#: functions.php:443
+#, php-format
+msgid "Hi %s, your ad on %s has been activated %s"
+msgstr "Привет %s, ваше объявление на %s было активировано %s"
+
+#: functions.php:469
+#, php-format
+msgid "Hi %s, validate your %s ad %s"
+msgstr "Привет %s, подтвердите свои права %s объявления %s"
+
+#: functions.php:473
+#, php-format
+msgid "Hi %s, your %s ad has been published: %s %s"
+msgstr "Привет %s, ваше %s объявление было праверенно  и опубликовано: %s %s"
+
+#: functions.php:478
+#, php-format
+msgid "Hi admin, %s has published new ad: %s %s"
+msgstr "Привет админ, %s опубликовал новое объявление: %s %s"
+
+#: functions.php:507
+#, php-format
+msgid "Hi %s, %s has question on %s: %s"
+msgstr "Привет %s, у %s есть вопрос по поводу %s: %s"
+
+#: functions.php:523
+#, php-format
+msgid "Hi %s, reset your %s password %s"
+msgstr "Привет %s, сброс  паролья %s %s"
+
+#: functions.php:526
+msgid ""
+"A SMS has been sent to your mobile number instructions to reset password"
+msgstr ""
+"На ваш мобильный номер было отправлено SMS с инструкциями по сбросу пароля"
+
+#: functions.php:541
+#, php-format
+msgid "Hi %s, validate your %s account %s"
+msgstr "Привет% s, проверьте ваш% s аккаунт% s"
+
+#: functions.php:544
+#, php-format
+msgid "%s activation SMS has been sent to your mobile number"
+msgstr "на ваш мобильный номер было отправлено SMS с активацией %s"
+
+#: functions.php:556
+#, php-format
+msgid "Hi admin, new user has registered: %s (%s)"
+msgstr "Привет админ, зарегистрировался новый пользователь: %s (%s)"
+
+#: index.php:143
+#, php-format
+msgid "Hi %s, your %s verification code is: %s"
+msgstr "Привет %s, ваш проверочный код %s: %s"
+
+#: index.php:147
+#, php-format
+msgid "Problem to send SMS: %s"
+msgstr "Проблема отправки SMS: %s"
+
+#: index.php:153
+msgid "Phone number is not valid"
+msgstr "Номер телефона не действителен"
+
+#: index.php:179
+msgid "Phone number verified. Thank you!"
+msgstr "Номер телефона проверен. Спасибо!"
+
+#: index.php:181
+msgid "Verification has failed, verification code does not match!"
+msgstr "Верификация не удалась, проверочный код не совпадает!"
+
+#: index.php:184
+msgid "Phone number or verification code is not valid!"
+msgstr "Номер телефона или проверочный код не действительны!"
+
+#: index.php:203
+msgid "In order to show listing, you must verify your phone number"
+msgstr ""
+"Для того чтобы показать список, вы должны подтвердить свой номер телефона"
+
+#: index.php:220
+msgid "You cannot activate listing, you must verify your phone number first"
+msgstr ""
+"Вы не можете активировать объявлении, вы должны сначала подтвердить свой "
+"номер телефона"
+
+#: index.php:240 index.php:256
+msgid "In order to improve our services, you must verify your phone number"
+msgstr ""
+"Для того чтобы улучшить наши услуги, вы должны подтвердить свой номер "
+"телефона"
+
+#: index.php:366 index.php:399
+msgid "Verification Logs"
+msgstr "Проверка Журналов"
+
+#: index.php:381
+msgid "Report Bug"
+msgstr "Сообщить об ошибке"
+
+#: index.php:382
+msgid "Support Forums"
+msgstr "Форумы поддержки"
+
+#: index.php:383
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"

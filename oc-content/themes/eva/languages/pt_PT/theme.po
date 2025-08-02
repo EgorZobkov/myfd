@@ -1,0 +1,2197 @@
+# Translation of Modern Theme in Portuguese (Portugal)
+# This file is distributed under the same license as the Modern Theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bello Theme\n"
+"POT-Creation-Date: 2018-10-12 02:05+0300\n"
+"PO-Revision-Date: 2018-10-12 02:05+0300\n"
+"Last-Translator: Dis <disruptive555@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: 404.php:33
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr "Deixe-nos ajudá-lo, temos algumas dicas para encontar o que precisa."
+
+#: 404.php:35
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Pesquisa</strong> por:"
+
+#: 404.php:40
+msgid "Search"
+msgstr "Procurar"
+
+#: 404.php:44
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Pesquisar</strong> nas categorias mais populares."
+
+#: admin/ads.php:12 admin/help.php:17 admin/settings.php:55
+msgid "Ads management"
+msgstr ""
+
+#: admin/ads.php:20
+msgid ""
+"In this section you can configure your site to display ads and start "
+"generating revenue."
+msgstr ""
+
+#: admin/ads.php:20
+msgid ""
+"If you are using an online advertising platform, such as Google Adsense, "
+"copy and paste here the provided code for ads."
+msgstr ""
+
+#: admin/ads.php:20
+msgid ""
+"Important! Google Adsense allows you to place only three blocks in page "
+msgstr ""
+
+#: admin/ads.php:27
+msgid "Main page under categories"
+msgstr ""
+
+#: admin/ads.php:31
+msgid ""
+"This ad will be shown at the Main page under categories. Note that the ad "
+"should be Responsive."
+msgstr ""
+
+#: admin/ads.php:35
+msgid "Homepage top of  latest listings"
+msgstr ""
+
+#: admin/ads.php:39
+msgid ""
+"This ad will be shown at the top of your latest listings in main page. Note "
+"that the  ad should be Responsive."
+msgstr ""
+
+#: admin/ads.php:43
+msgid "Homepage under of latest listings"
+msgstr ""
+
+#: admin/ads.php:47
+msgid ""
+"This ad will be shown on the main page under of your latest listings. Note "
+"that the  ad should be Responsive."
+msgstr ""
+
+#: admin/ads.php:51
+msgid "Homepage middle of latest listings(only list view).Read Help"
+msgstr ""
+
+#: admin/ads.php:55
+msgid ""
+"This ad will be shown on the main page middle of your latest listings. Note "
+"that the  ad should be Responsive."
+msgstr ""
+
+#: admin/ads.php:59
+msgid "No. of item after Show - Homepage middle:"
+msgstr ""
+
+#: admin/ads.php:66
+msgid "Search results top"
+msgstr ""
+
+#: admin/ads.php:70
+msgid ""
+"This ad will be shown at the top search results of your site. Note that the  "
+"ad should be Responsive."
+msgstr ""
+
+#: admin/ads.php:74
+msgid "Search results middle(only list view).Read Help"
+msgstr ""
+
+#: admin/ads.php:78
+msgid ""
+"This ad will be shown at middle of search results of your website. Note that "
+"the  ad should be Responsive."
+msgstr ""
+
+#: admin/ads.php:82
+msgid "No. of item after Show - Search results middle:"
+msgstr ""
+
+#: admin/ads.php:89
+msgid "Search under of listings"
+msgstr ""
+
+#: admin/ads.php:93
+msgid ""
+"This ad will be shown on the search page under of your listings. Note that "
+"the  ad should be Responsive."
+msgstr ""
+
+#: admin/ads.php:97
+msgid "Item under of listing description"
+msgstr ""
+
+#: admin/ads.php:101
+msgid ""
+"This ad will be shown on the item page under of listing description. Note "
+"that the  ad should be Responsive."
+msgstr ""
+
+#: admin/ads.php:105
+msgid "Item under useful info"
+msgstr ""
+
+#: admin/ads.php:109
+msgid ""
+"This ad will be shown on the item page under useful info. Note that the ad "
+"should be Responsive."
+msgstr ""
+
+#: admin/ads.php:113
+msgid "Item sidebar"
+msgstr ""
+
+#: admin/ads.php:117
+msgid ""
+"This ad will be shown on the item page sidebar. Note that the  ad should be "
+"Responsive."
+msgstr ""
+
+#: admin/ads.php:121 admin/color.php:62 admin/items_eva.php:106
+#: admin/related.php:155 admin/search.php:73 admin/settings.php:215
+#: admin/social.php:104 admin/text.php:74 admin/welcome.php:46
+msgid "Save changes"
+msgstr "Salve as alterações"
+
+#: admin/category_icons.php:1 admin/settings.php:50
+msgid "Category icons"
+msgstr ""
+
+#: admin/category_icons.php:1
+msgid ""
+"Icon must be ~ 30X30px. Enable Use ImageMagick (Show More-Settings-Media) "
+"before upload images. Osclass badly work with transparent background .png "
+"and GD library."
+msgstr ""
+
+#: admin/category_icons.php:1
+msgid "Remove icon"
+msgstr ""
+
+#: admin/category_icons.php:1
+msgid "No icon"
+msgstr ""
+
+#: admin/category_icons.php:1 admin/favicon.php:51 admin/header.php:52
+#: admin/search.php:37 admin/welcome.php:75 admin/welcome.php:103
+msgid "Upload"
+msgstr "Enviar"
+
+#: admin/color.php:13
+msgid "Color management"
+msgstr ""
+
+#: admin/color.php:21
+msgid "In this section you can select theme colors"
+msgstr ""
+
+#: admin/color.php:27
+msgid "Select color:"
+msgstr ""
+
+#: admin/color.php:31
+msgid "You can change colors with color picker"
+msgstr ""
+
+#: admin/color.php:33
+msgid "Primary color"
+msgstr ""
+
+#: admin/color.php:40
+msgid "Second color - Hover"
+msgstr ""
+
+#: admin/color.php:47
+msgid "Publish your ad - button color"
+msgstr ""
+
+#: admin/color.php:55
+msgid "Publish your ad - button hover color"
+msgstr ""
+
+#: admin/favicon.php:11
+msgid "Favicon Image"
+msgstr ""
+
+#: admin/favicon.php:12
+msgid "The preferred size of the favicon is 16x16 pixels."
+msgstr ""
+
+#: admin/favicon.php:18 admin/header.php:16
+msgid "Preview"
+msgstr "Visualização"
+
+#: admin/favicon.php:25
+msgid "Remove image"
+msgstr ""
+
+#: admin/favicon.php:32
+msgid "No image has been uploaded yet"
+msgstr ""
+
+#: admin/favicon.php:35
+msgid "Upload image"
+msgstr ""
+
+#: admin/favicon.php:37
+msgid ""
+"<strong>Note:</strong> Uploading another image will overwrite the current "
+"image."
+msgstr ""
+
+#: admin/favicon.php:45
+msgid "Accepted image (png,gif,jpg)"
+msgstr ""
+
+#: admin/favicon.php:60 admin/header.php:61
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "A pasta imagens <strong> %s </strong> não é gravável em seu servidor"
+
+#: admin/favicon.php:61
+msgid "Osclass can't upload the image from the administration panel."
+msgstr ""
+
+#: admin/favicon.php:62 admin/header.php:63
+msgid "Please make the aforementioned image folder writable."
+msgstr "Por favor dê privilégios de escrita à pasta de imagens mencionada."
+
+#: admin/favicon.php:67 admin/header.php:68
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"Para criar um diretório gravável em UNIX executar este comando a partir do "
+"shell:"
+
+#: admin/header.php:13
+msgid "Header logo"
+msgstr "Logo do Cabeçalho"
+
+#: admin/header.php:23
+msgid "Remove logo"
+msgstr "Remover Logo"
+
+#: admin/header.php:31
+msgid "No logo has been uploaded yet"
+msgstr "Não foi carregado nenhum logotipo"
+
+#: admin/header.php:34
+msgid "Upload logo"
+msgstr "Enviar Logo"
+
+#: admin/header.php:36
+msgid "The recomended size of the logo is ~ 149x68."
+msgstr ""
+
+#: admin/header.php:38
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong> Nota: </strong> Carregar outro logo irá substituir o actual "
+"logótipo."
+
+#: admin/header.php:46
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo de imagem (png, gif, jpg)"
+
+#: admin/header.php:62
+msgid "OSClass can't upload the logo image from the administration panel."
+msgstr ""
+
+#: admin/help.php:3 admin/settings.php:58 admin/settings.php:205
+msgid "Help"
+msgstr "Ajuda"
+
+#: admin/help.php:7
+msgid "Control of the size of images"
+msgstr ""
+
+#: admin/help.php:8
+msgid "The panel of the administrator - Settings - Media:"
+msgstr ""
+
+#: admin/help.php:9
+msgid "The miniature size - 270x204"
+msgstr ""
+
+#: admin/help.php:10
+msgid "The preview size - 770x514"
+msgstr ""
+
+#: admin/help.php:11
+msgid ""
+"The normal size - 935x640( For normal size you can setup bigger size. This "
+"is image used in item page in Popup wondow)"
+msgstr ""
+
+#: admin/help.php:12
+msgid ""
+"Disable - Force image aspect. No white background will be added to keep the "
+"size."
+msgstr ""
+
+#: admin/help.php:13
+msgid "Enable - Use ImageMagick instead of GD library"
+msgstr ""
+
+#: admin/help.php:18
+msgid "Manage advertising platform, such as Google Adsense"
+msgstr ""
+
+#: admin/help.php:19
+msgid "Homepage and search middle of latest listings work only for list view"
+msgstr ""
+
+#: admin/help.php:20
+msgid ""
+"Default - Middle calculated that on page 10 listing and show after 5 listing"
+msgstr ""
+
+#: admin/help.php:21
+msgid "You can change this in Ads tab."
+msgstr ""
+
+#: admin/help.php:23
+msgid "Icons for categories"
+msgstr ""
+
+#: admin/help.php:24
+msgid ""
+"If you change standart Osclass categories (or add new), it is necessary for "
+"you to make the icons for the changed categories."
+msgstr ""
+
+#: admin/help.php:25
+msgid "The size of images should be ~ 30x30 px"
+msgstr ""
+
+#: admin/help.php:26
+msgid "Images, for example, can be taken here:"
+msgstr ""
+
+#: admin/help.php:27
+msgid "Go to Category icons tab and upload or replace icons."
+msgstr ""
+
+#: admin/help.php:29
+msgid "Search Max-Min price edit"
+msgstr ""
+
+#: admin/help.php:30
+msgid "Open eva/js/main.js in 137 line min = 0; min price to select."
+msgstr ""
+
+#: admin/help.php:31
+msgid "In 138 line max = 1000000; max price."
+msgstr ""
+
+#: admin/help.php:34
+msgid "Google Map in Main and Search pages"
+msgstr ""
+
+#: admin/help.php:35
+msgid "All ads on the map are added by the coordinates"
+msgstr ""
+
+#: admin/help.php:36
+msgid ""
+"If your site already had ads, but the Google map plugin was not installed "
+"before:each time the map is loaded, the coordinates will be calculated"
+msgstr ""
+
+#: admin/help.php:37
+msgid ""
+"The map can be loaded long if you configure a lot of ads to display on the "
+"map."
+msgstr ""
+
+#: admin/help.php:38
+msgid ""
+"But if you turn on the theme Map or install the Google map plugin:when user "
+"adding new ads to the site, the coordinates will be immediately calculated "
+"and saved to the database for each new ad"
+msgstr ""
+
+#: admin/help.php:39
+msgid ""
+"The map will be loaded much faster, so the coordinates will be taken from "
+"the database."
+msgstr ""
+
+#: admin/help.php:40
+msgid ""
+"If the user specified an incorrect address, the ad will not be shown on the "
+"map."
+msgstr ""
+
+#: admin/help.php:42
+msgid "Google Map keys"
+msgstr ""
+
+#: admin/help.php:43
+msgid "Enable Google Maps and Places Api"
+msgstr ""
+
+#: admin/help.php:46
+msgid ""
+"Unfortunately Google not allow limit access to Google Map Api for domain and "
+"IP together"
+msgstr ""
+
+#: admin/help.php:47
+msgid "In this one, you can either restrict access by domain, or by IP"
+msgstr ""
+
+#: admin/help.php:48
+msgid ""
+"Google Maps JavaScript Api work with URLS and in can be restricted by domain "
+"name"
+msgstr ""
+
+#: admin/help.php:49
+msgid ""
+"But Google Geocoding Api Key send request to API from server IP and in can "
+"be restricted by IP only"
+msgstr ""
+
+#: admin/help.php:50
+msgid ""
+"That is why we recommend creating two keys. First key for Google Maps "
+"JavaScript Api and restrict it by your domain name"
+msgstr ""
+
+#: admin/help.php:53
+msgid "Second key for Google Geocoding Api and restrict it by your server IP"
+msgstr ""
+
+#: admin/help.php:58
+msgid "Translation"
+msgstr ""
+
+#: admin/help.php:59
+msgid "You can translate or edit theme translations with Poedit."
+msgstr ""
+
+#: admin/items_eva.php:16
+msgid "Item-post options"
+msgstr ""
+
+#: admin/items_eva.php:19
+msgid "Location option:"
+msgstr ""
+
+#: admin/items_eva.php:22 admin/items_eva.php:74 admin/items_eva.php:85
+#: admin/items_eva.php:94 admin/search.php:50 admin/search.php:59
+#: admin/search.php:67 admin/settings.php:86 admin/settings.php:97
+#: admin/settings.php:126 admin/settings.php:163 admin/social.php:22
+#: admin/social.php:30 admin/welcome.php:41
+msgid "Enable"
+msgstr ""
+
+#: admin/items_eva.php:23 admin/items_eva.php:75 admin/items_eva.php:86
+#: admin/items_eva.php:95 admin/search.php:49 admin/search.php:58
+#: admin/search.php:68 admin/settings.php:87 admin/settings.php:96
+#: admin/settings.php:125 admin/settings.php:162 admin/social.php:23
+#: admin/social.php:31 admin/welcome.php:40
+msgid "Disable"
+msgstr ""
+
+#: admin/items_eva.php:29
+msgid "With Countries"
+msgstr ""
+
+#: admin/items_eva.php:30
+msgid "Without Countries"
+msgstr ""
+
+#: admin/items_eva.php:34
+msgid "Custom fileds postion:"
+msgstr ""
+
+#: admin/items_eva.php:37
+msgid "After categories"
+msgstr ""
+
+#: admin/items_eva.php:38
+msgid "Bottom"
+msgstr ""
+
+#: admin/items_eva.php:44
+msgid "Item page"
+msgstr ""
+
+#: admin/items_eva.php:45
+msgid "Custom setting for item page."
+msgstr ""
+
+#: admin/items_eva.php:48
+msgid "Gallery:"
+msgstr ""
+
+#: admin/items_eva.php:52
+msgid "Swiper"
+msgstr ""
+
+#: admin/items_eva.php:53
+msgid "Bxslider"
+msgstr ""
+
+#: admin/items_eva.php:59
+msgid "Hide phones to XXXX:"
+msgstr ""
+
+#: admin/items_eva.php:63 admin/settings.php:137 admin/settings.php:148
+#: admin/text.php:70
+msgid "Hide"
+msgstr ""
+
+#: admin/items_eva.php:64 admin/related.php:95 admin/related.php:107
+#: admin/related.php:119 admin/related.php:131 admin/related.php:143
+msgid "No"
+msgstr "Não"
+
+#: admin/items_eva.php:70
+msgid "Mark as in item page:"
+msgstr ""
+
+#: admin/items_eva.php:81
+msgid "Show useful info in item page:"
+msgstr ""
+
+#: admin/items_eva.php:91
+msgid "Google Map."
+msgstr ""
+
+#: admin/items_eva.php:99
+msgid "Install Api key first in Theme settings tab."
+msgstr ""
+
+#: admin/items_eva.php:100
+msgid "You can disable this Map and use any other map plugin."
+msgstr ""
+
+#: admin/items_eva.php:101
+msgid "Do not use Google map plugin and this option both."
+msgstr ""
+
+#: admin/related.php:65
+msgid "Setting saved successfully"
+msgstr ""
+
+#: admin/related.php:71
+msgid "Related Ads Preferences"
+msgstr ""
+
+#: admin/related.php:82
+msgid "Number of related ads  "
+msgstr ""
+
+#: admin/related.php:86
+msgid "Enter how many ads you want to show on Item Page (Default is 4)"
+msgstr ""
+
+#: admin/related.php:91
+msgid "Show only premium ads"
+msgstr ""
+
+#: admin/related.php:96 admin/related.php:108 admin/related.php:120
+#: admin/related.php:132 admin/related.php:144
+msgid "Yes"
+msgstr "Sim"
+
+#: admin/related.php:98
+msgid "Select Yes if you want to show premium ads only"
+msgstr ""
+
+#: admin/related.php:103
+msgid "Show ads with pictures only"
+msgstr ""
+
+#: admin/related.php:110
+msgid "Select Yes if you want to show ads with picture only"
+msgstr ""
+
+#: admin/related.php:115
+msgid "Show ads with same category"
+msgstr ""
+
+#: admin/related.php:122
+msgid "Select Yes to Filter ads by Category"
+msgstr ""
+
+#: admin/related.php:127
+msgid "Show ads with same country"
+msgstr ""
+
+#: admin/related.php:134
+msgid "Select Yes to Filter ads by Country"
+msgstr ""
+
+#: admin/related.php:139
+msgid "Show ads with same region"
+msgstr ""
+
+#: admin/related.php:146
+msgid "Select Yes to Filter ads by Region"
+msgstr ""
+
+#: admin/search.php:13
+msgid "Search Header Background Image"
+msgstr ""
+
+#: admin/search.php:20 admin/welcome.php:58 admin/welcome.php:86
+msgid "Loaded image"
+msgstr ""
+
+#: admin/search.php:26 admin/welcome.php:64 admin/welcome.php:92 item.php:172
+#: user-items.php:92
+msgid "Delete"
+msgstr "Apagar"
+
+#: admin/search.php:33
+msgid "Recommended image size - 1920x500px or higher"
+msgstr ""
+
+#: admin/search.php:34 admin/welcome.php:72 admin/welcome.php:100
+msgid "IMPORTANT!Before downloading new pictures - delete the old."
+msgstr ""
+
+#: admin/search.php:41 admin/social.php:18
+msgid "Settings"
+msgstr ""
+
+#: admin/search.php:46
+msgid "Google Map"
+msgstr ""
+
+#: admin/search.php:55
+msgid "Header image"
+msgstr ""
+
+#: admin/search.php:63
+msgid "Advanced search City field"
+msgstr ""
+
+#: admin/settings.php:25 admin/settings.php:259
+msgid "osclass-pro.com"
+msgstr ""
+
+#: admin/settings.php:34
+msgid "Follow us"
+msgstr "Siga-nos"
+
+#: admin/settings.php:38
+msgid "osclassprocom"
+msgstr ""
+
+#: admin/settings.php:39
+msgid "osclass_pro_com"
+msgstr ""
+
+#: admin/settings.php:47 admin/settings.php:61
+msgid "Theme settings"
+msgstr "Configurações do Tema"
+
+#: admin/settings.php:48
+msgid "Main"
+msgstr ""
+
+#: admin/settings.php:49
+msgid "Footer"
+msgstr ""
+
+#: admin/settings.php:51
+msgid "Favicon"
+msgstr ""
+
+#: admin/settings.php:52
+msgid "Search page"
+msgstr ""
+
+#: admin/settings.php:53
+msgid "Colors"
+msgstr ""
+
+#: admin/settings.php:54
+msgid "Items"
+msgstr ""
+
+#: admin/settings.php:56
+msgid "Related ads"
+msgstr ""
+
+#: admin/settings.php:57
+msgid "Text"
+msgstr ""
+
+#: admin/settings.php:67
+msgid "Search placeholder"
+msgstr "Espaço reservado pesquisa"
+
+#: admin/settings.php:73
+msgid "Show lists in Search pages as:"
+msgstr ""
+
+#: admin/settings.php:76
+msgid "Gallery"
+msgstr ""
+
+#: admin/settings.php:77
+msgid "List"
+msgstr ""
+
+#: admin/settings.php:82
+msgid "Category Icon in latest and search items:"
+msgstr ""
+
+#: admin/settings.php:93
+msgid "Search in Main page with Subcategories:"
+msgstr ""
+
+#: admin/settings.php:102
+msgid "Search in Main page select options:"
+msgstr ""
+
+#: admin/settings.php:103
+msgid ""
+"Search select option(Use the With all cities option in the search, if you "
+"have a single region or not many regions."
+msgstr ""
+
+#: admin/settings.php:104
+msgid ""
+"If you have many regions or countries. Home page can be opened for a long "
+"time with this option.)"
+msgstr ""
+
+#: admin/settings.php:108
+msgid "With all Options"
+msgstr ""
+
+#: admin/settings.php:109
+msgid "City autocomplete"
+msgstr ""
+
+#: admin/settings.php:110
+msgid "Cities by regions"
+msgstr ""
+
+#: admin/settings.php:111
+msgid "With all Regions"
+msgstr ""
+
+#: admin/settings.php:112
+msgid "Regions with items"
+msgstr ""
+
+#: admin/settings.php:113
+msgid "With all Cities"
+msgstr ""
+
+#: admin/settings.php:114
+msgid "Cities with items"
+msgstr ""
+
+#: admin/settings.php:115
+msgid "Countries with items"
+msgstr ""
+
+#: admin/settings.php:116
+msgid "Hide location"
+msgstr ""
+
+#: admin/settings.php:117
+msgid "Hide search"
+msgstr ""
+
+#: admin/settings.php:122
+msgid "Categories in main page:"
+msgstr ""
+
+#: admin/settings.php:131
+msgid "Carousel1 in Main page:"
+msgstr ""
+
+#: admin/settings.php:135 admin/settings.php:146 search_list.php:14
+msgid "Premium items"
+msgstr "Listagens premium"
+
+#: admin/settings.php:136 admin/settings.php:147
+msgid "Popular items"
+msgstr "Mais Populares"
+
+#: admin/settings.php:142
+msgid "Carousel2 in Main page:"
+msgstr ""
+
+#: admin/settings.php:153
+msgid "No. of items in carousel:"
+msgstr ""
+
+#: admin/settings.php:159
+msgid "Main Google Map:"
+msgstr ""
+
+#: admin/settings.php:168
+msgid "Google Map style:"
+msgstr ""
+
+#: admin/settings.php:171
+msgid "Default"
+msgstr ""
+
+#: admin/settings.php:194
+msgid "Google Maps JavaScript Api Key:"
+msgstr ""
+
+#: admin/settings.php:198
+msgid "You can get Key here:"
+msgstr ""
+
+#: admin/settings.php:201
+msgid "Google Geocoding Api Key:"
+msgstr ""
+
+#: admin/settings.php:205
+msgid "Read Help about keys:"
+msgstr ""
+
+#: admin/settings.php:208
+msgid "No. of items in Map:"
+msgstr ""
+
+#: admin/settings.php:212
+msgid "Read Help tab before setting up"
+msgstr ""
+
+#: admin/social.php:19
+msgid "Logo:"
+msgstr ""
+
+#: admin/social.php:27
+msgid "Categories:"
+msgstr ""
+
+#: admin/social.php:35
+msgid "Copyright"
+msgstr ""
+
+#: admin/social.php:38
+msgid "Your Copyright"
+msgstr ""
+
+#: admin/social.php:42
+msgid "This text will be displayed in the footer"
+msgstr ""
+
+#: admin/social.php:45
+msgid "Social links in footer"
+msgstr ""
+
+#: admin/social.php:47
+msgid "Facebook"
+msgstr ""
+
+#: admin/social.php:51
+msgid "This link to you Facebook page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:55
+msgid "Twitter"
+msgstr ""
+
+#: admin/social.php:59
+msgid "This link to you Twitter page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:63
+msgid "Google+"
+msgstr ""
+
+#: admin/social.php:67
+msgid "This link to you Google+ page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:71
+msgid "Instagram"
+msgstr ""
+
+#: admin/social.php:75
+msgid "This link to you Instagram page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:79
+msgid "Pinterest"
+msgstr ""
+
+#: admin/social.php:83
+msgid "This link to you Pinterest page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:87
+msgid "Vkontakte"
+msgstr ""
+
+#: admin/social.php:91
+msgid "This link to you Vkontakte page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:95
+msgid "Odnoklassniki"
+msgstr ""
+
+#: admin/social.php:99
+msgid "This link to you Odnoklassniki page will be shown in footer."
+msgstr ""
+
+#: admin/text.php:12
+msgid "Text management"
+msgstr ""
+
+#: admin/text.php:20
+msgid ""
+"In this section you can add some text for SEO or just for users. The text "
+"can be with HTML tags. Or you can just use these places for banners or any "
+"HTML code."
+msgstr ""
+
+#: admin/text.php:26
+msgid "Homepage - Under categories."
+msgstr ""
+
+#: admin/text.php:30
+msgid "This will be shown on the main page Above the premium listings."
+msgstr ""
+
+#: admin/text.php:35
+msgid "Homepage - Under the latest listings."
+msgstr ""
+
+#: admin/text.php:39
+msgid "This will be shown on the main page Under all listings."
+msgstr ""
+
+#: admin/text.php:43
+msgid "Homepage - Before latest H2."
+msgstr ""
+
+#: admin/text.php:47 admin/text.php:55
+msgid "This will be shown on the main Before latest listings."
+msgstr ""
+
+#: admin/text.php:51
+msgid "Homepage - Before latest H2 text."
+msgstr ""
+
+#: admin/text.php:59
+msgid "Categories description"
+msgstr ""
+
+#: admin/text.php:63
+msgid ""
+"You can add for each Osclass category some text with HTML tags in Settings - "
+"Categories. This text can be displayed on the category page."
+msgstr ""
+
+#: admin/text.php:68
+msgid "At the top of the page"
+msgstr ""
+
+#: admin/text.php:69
+msgid "At the bottom of the page"
+msgstr ""
+
+#: admin/welcome.php:13
+msgid "Main Welcome Text and Search Background Image"
+msgstr ""
+
+#: admin/welcome.php:19
+msgid "Main page H1 Welcome Text "
+msgstr ""
+
+#: admin/welcome.php:23
+msgid "This  H1 Welcome Text be shown at the Main page."
+msgstr ""
+
+#: admin/welcome.php:27
+msgid "Main page under H1 Welcome Text "
+msgstr ""
+
+#: admin/welcome.php:31
+msgid "This Welcome Text under H1 be shown at the Main page."
+msgstr ""
+
+#: admin/welcome.php:37
+msgid "Middle block image with text"
+msgstr ""
+
+#: admin/welcome.php:51
+msgid "Main Search Background Image"
+msgstr ""
+
+#: admin/welcome.php:71
+msgid "Recommended image size ~ 1920x900px or higher"
+msgstr ""
+
+#: admin/welcome.php:79
+msgid "Main Middle Image"
+msgstr ""
+
+#: admin/welcome.php:99
+msgid "Recommended image size ~ 1920x1200px or higher"
+msgstr ""
+
+#: alert-form.php:14
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Você subscreveu com sucesso o alerta"
+
+#: alert-form.php:15 user-change_email.php:34
+msgid "Invalid email address"
+msgstr "Endereço de E-mail Inválido"
+
+#: alert-form.php:16
+msgid "There was a problem with the alert"
+msgstr "Houve um problema com o alerta"
+
+#: alert-form.php:46
+msgid "Subscribe to this search"
+msgstr "Inscrever-se para esta pesquisa"
+
+#: alert-form.php:56 alert-form.php:61
+msgid "Subscribe"
+msgstr "Subscrever"
+
+#: contact.php:29 template-contact.php:39
+msgid "Contact us"
+msgstr "Contate-nos"
+
+#: contact.php:39 template-contact.php:40
+msgid "Subject"
+msgstr "Assunto"
+
+#: contact.php:43 template-contact.php:41
+msgid "Message"
+msgstr "Mensagem"
+
+#: contact.php:44
+msgid "Detail description..."
+msgstr "Detalhe e Descrição"
+
+#: contact.php:49 item-edit.php:175 item-post.php:174 user-profile.php:71
+msgid "Name"
+msgstr "Nome"
+
+#: contact.php:50 item.php:147 item.php:271 template-contact.php:42
+#: user-public-profile.php:85
+msgid "Your name"
+msgstr "Seu Nome"
+
+#: contact.php:53 item-edit.php:179 item-post.php:178 user-login.php:37
+#: user-profile.php:76 user-recover.php:39
+msgid "E-mail"
+msgstr "E-mail"
+
+#: contact.php:54 template-contact.php:43
+msgid "Your e-mail address"
+msgstr "Seu endereço de e-mail"
+
+#: contact.php:61 item.php:155 item.php:293 template-contact.php:48
+#: user-public-profile.php:101
+msgid "Send"
+msgstr "Enviar"
+
+#: footer.php:77
+msgid "Contact"
+msgstr "Contato"
+
+#: functions.php:1 templates/mainsearch/all.php:118
+#: templates/mainsearch/all.php:149
+#: templates/mainsearch/inc.searchcitybyreg.php:36
+msgid "Select a region..."
+msgstr "Selecione uma região..."
+
+#: functions.php:1 templates/mainsearch/all.php:171
+#: templates/mainsearch/all.php:198
+#: templates/mainsearch/inc.searchcitybyreg.php:87
+#: templates/mainsearch/inc.searchcitybyreg.php:114
+msgid "Select a city..."
+msgstr "Selecionar uma cidade..."
+
+#: functions.php:1 templates/mainsearch/all.php:38
+msgid "Select a country..."
+msgstr "Selecionar um país..."
+
+#: functions.php:1
+msgid "Category..."
+msgstr "Categoria..."
+
+#: functions.php:1
+msgid "Theme settings updated correctly"
+msgstr "Configurações de tema atualizadas corretamente"
+
+#: functions.php:1
+msgid "The logo image has been uploaded correctly"
+msgstr "A imagem do logotipo foi carregado corretamente"
+
+#: functions.php:1
+msgid "An error has occurred, please try again"
+msgstr "Ocorreu um erro, por favor tente novamente"
+
+#: functions.php:1
+msgid "The logo image has been removed"
+msgstr "A imagem do logotipo foi removido"
+
+#: functions.php:1
+msgid "Image not found"
+msgstr "Imagem não encontrada"
+
+#: functions.php:1
+msgid "Settings updated correctly"
+msgstr "Configurações de tema atualizadas corretamente"
+
+#: functions.php:1
+msgid "Ads management updated correctly"
+msgstr "Gestão de anúncios atualizado corretamente"
+
+#: functions.php:1
+msgid "The icon has been uploaded correctly"
+msgstr "O ícone foi carregado corretamente"
+
+#: functions.php:1
+msgid "The icon has been removed"
+msgstr "O ícone foi removido"
+
+#: functions.php:1
+msgid "The image has been uploaded correctly"
+msgstr ""
+
+#: functions.php:1
+msgid "The image has been removed"
+msgstr ""
+
+#: functions.php:1
+msgid "Background color updated"
+msgstr ""
+
+#: functions.php:1
+msgid "The favicon image has been uploaded correctly"
+msgstr ""
+
+#: functions.php:1
+msgid "The favicon image has been removed"
+msgstr ""
+
+#: functions.php:1
+msgid "Click to show the number"
+msgstr ""
+
+#: header.php:46 headermain.php:49
+msgid "Publish your ad"
+msgstr "Publicar o seu anúncio"
+
+#: header.php:51 headermain.php:54
+msgid "Home"
+msgstr "Home"
+
+#: header.php:54 headermain.php:57
+msgid "My account"
+msgstr "Minha Conta"
+
+#: header.php:55 headermain.php:58
+msgid "Logout"
+msgstr "Sair"
+
+#: header.php:57 headermain.php:60
+msgid "Sign in"
+msgstr "Entrar"
+
+#: header.php:59 headermain.php:62
+msgid "Sign up"
+msgstr "Novo cadastro"
+
+#: headermain.php:16
+msgid ""
+"You have enabled DEBUG MODE, autocomplete for locations will not work! "
+"Disable it in your config.php."
+msgstr ""
+
+#: inc.main.subcategory.php:29 search_module.php:45
+msgid "Categories"
+msgstr "Categorias"
+
+#: inc.main.subcategory.php:54
+msgid "View all"
+msgstr "Ver todos"
+
+#: item-edit.php:86
+msgid "Update your listing"
+msgstr "Atualize seu anúncio"
+
+#: item-edit.php:88 item-post.php:87 search_module.php:36
+msgid "Category"
+msgstr "Categoria"
+
+#: item-edit.php:90 item-post.php:89 templates/mainsearch/all.php:29
+#: templates/mainsearch/inc.search.autocomplete.php:20
+#: templates/mainsearch/inc.search.regions.php:19
+#: templates/mainsearch/inc.searchcitybyreg.php:26
+msgid "Select a category"
+msgstr "Selecione uma categoria"
+
+#: item-edit.php:99 item-post.php:98
+msgid "Title"
+msgstr "Título"
+
+#: item-edit.php:105 item-post.php:104 item.php:98 item.php:104
+msgid "Description"
+msgstr "Descrição"
+
+#: item-edit.php:112 item-post.php:111
+msgid "Add images"
+msgstr "Adicionar imagens"
+
+#: item-edit.php:113 item-post.php:112
+msgid "You can upload up to"
+msgstr "Você pode enviar até"
+
+#: item-edit.php:113 item-post.php:112
+msgid "pictures per listing"
+msgstr "fotos por anúncio"
+
+#: item-edit.php:114 item-post.php:113
+msgid "Max size"
+msgstr "Tamanho máximo"
+
+#: item-edit.php:114 item-post.php:113
+msgid "Kb for each image"
+msgstr "KB para cada imagem"
+
+#: item-edit.php:126 item-post.php:125
+msgid "Add new photo"
+msgstr "Adicionar nova Foto"
+
+#: item-edit.php:135 item-post.php:134 search_module.php:57
+msgid "Price"
+msgstr "Preço"
+
+#: item-edit.php:148 item-post.php:147 user-profile.php:112
+msgid "Country"
+msgstr "País"
+
+#: item-edit.php:156 item-post.php:155 user-profile.php:117
+msgid "Region"
+msgstr "Região"
+
+#: item-edit.php:160 item-post.php:159 search_module.php:49
+#: user-profile.php:123
+msgid "City"
+msgstr "Cidade"
+
+#: item-edit.php:165 item-post.php:164
+msgid "City Area"
+msgstr "Área da Cidade"
+
+#: item-edit.php:169 item-post.php:168 user-profile.php:129
+msgid "Address"
+msgstr "Endereço"
+
+#: item-edit.php:187 item-post.php:186
+msgid "Show email on listing page"
+msgstr "Mostrar e-mail na página do anúncio"
+
+#: item-edit.php:213 user-change_email.php:93 user-change_password.php:67
+#: user-change_username.php:101 user-profile.php:140
+msgid "Update"
+msgstr "Atualizar"
+
+#: item-edit.php:218
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: item-post.php:85
+msgid "Publish a listing"
+msgstr "Publicar o Anúncio"
+
+#: item-post.php:212
+msgid "Publish"
+msgstr "Publicar"
+
+#: item.php:99 item.php:159
+msgid "Comments"
+msgstr "Comentário"
+
+#: item.php:100
+msgid "Map"
+msgstr "Mapa"
+
+#: item.php:134
+msgid "Leave comments"
+msgstr "Comentário"
+
+#: item.php:150 item.php:273 user-public-profile.php:87
+msgid "Your e-mail*"
+msgstr "Seu e-mail *"
+
+#: item.php:154
+msgid "Comment*"
+msgstr "Comentário*"
+
+#: item.php:172
+msgid "Delete your comment"
+msgstr "Apagar seu comentário"
+
+#: item.php:226 user-register.php:58
+msgid "Company"
+msgstr "Empresa"
+
+#: item.php:228 user-register.php:57
+msgid "User"
+msgstr "Usuário"
+
+#: item.php:242 user-public-profile.php:73
+msgid "Write"
+msgstr "Escrever"
+
+#: item.php:244
+msgid "Profile"
+msgstr "Perfil"
+
+#: item.php:254
+msgid "It's your own listing, you can't contact the publisher."
+msgstr ""
+"É o seu próprio anúncio, você não pode enviar uma mensagem ao anunciante."
+
+#: item.php:258
+msgid ""
+"You must log in or register a new account in order to contact the publisher"
+msgstr ""
+"Você deve fazer login ou registar-se uma nova conta para entrar em contcato "
+"com o anunciante"
+
+#: item.php:261
+msgid "Login"
+msgstr "Entrar"
+
+#: item.php:262 user-login.php:50
+msgid "Register for a free account"
+msgstr "Registre sua conta gratuita"
+
+#: item.php:268 user-public-profile.php:82
+msgid "Contact publisher"
+msgstr "Fale com o anunciante"
+
+#: item.php:275 user-public-profile.php:89
+msgid "Phone number"
+msgstr "Número de telefone"
+
+#: item.php:278 user-public-profile.php:91
+msgid "Message*"
+msgstr "Mensagem*"
+
+#: item.php:282 user-public-profile.php:94
+msgid "Attachment"
+msgstr "Acessório"
+
+#: item.php:282 template-contact.php:40 template-contact.php:42
+#: user-public-profile.php:89 user-public-profile.php:94
+msgid "optional"
+msgstr "opcional"
+
+#: item.php:325
+msgid "Edit item"
+msgstr "Editar item"
+
+#: item.php:340
+msgid "Mark as..."
+msgstr "Marcar como..."
+
+#: item.php:341
+msgid "Mark as spam"
+msgstr "Marcar como lixo eletrônico (spam)"
+
+#: item.php:342
+msgid "Mark as misclassified"
+msgstr "Marcar como mal classificado"
+
+#: item.php:343
+msgid "Mark as duplicated"
+msgstr "Marcar como duplicado"
+
+#: item.php:344
+msgid "Mark as expired"
+msgstr "Expirado"
+
+#: item.php:345
+msgid "Mark as offensive"
+msgstr "Ofensivo"
+
+#: item.php:354
+msgid "Useful information"
+msgstr "REQUISITOS BÁSICOS"
+
+#: item.php:356
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Evite fraudes, agindo localmente ou pagando com PayPal"
+
+#: item.php:357
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Nunca pague com Western Union, Moneygram ou outros serviços de pagamento "
+"anónimos"
+
+#: item.php:358
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Não compre ou venda fora do seu país. Não aceite cheques de fora do seu país"
+
+#: item.php:359
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Este site nunca está envolvida em qualquer transação,nem nos pagamentos, "
+"envios, garantias de transações, serviços de custódia, ou oferece \"proteção "
+"ao comprador \" ou \"vendedor de certificação \""
+
+#: main.php:99 main.php:305
+msgid "Premium listings"
+msgstr "Listagens premium"
+
+#: main.php:115 main.php:321 related_eva_ads.php:22 search_gallery.php:30
+#: search_list.php:30 user-dashboard.php:77 user-items.php:86
+msgid "Premium"
+msgstr "Premium"
+
+#: main.php:159 main.php:365
+msgid "Popular listings"
+msgstr "Anúncios Mais Populares"
+
+#: main.php:174 main.php:380
+msgid "Popular"
+msgstr "Populares"
+
+#: main.php:231
+msgid "Latest Listings"
+msgstr "Últimos Anúncios"
+
+#: main.php:234
+msgid "No Latest Listings"
+msgstr "Não há Últimos Anúncios"
+
+#: main.php:306
+msgid "See the best offers from our users."
+msgstr "Veja as melhores ofertas de nossos usuários."
+
+#: main.php:412
+msgid "All offers"
+msgstr "Todas as ofertas"
+
+#: related_eva_ads.php:6
+msgid "Related Ads"
+msgstr "Anúncios Relacionados"
+
+#: search.php:94
+msgid "Close subscription"
+msgstr ""
+
+#: search.php:94
+msgid "Subscription"
+msgstr "Inscrição"
+
+#: search.php:131
+msgid "All"
+msgstr "Todos"
+
+#: search.php:132
+msgid "Individual"
+msgstr "Indivíduo"
+
+#: search.php:133
+msgid "Companies"
+msgstr "Empresas"
+
+#: search.php:168
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "Não existem resultados que correspondem à \"%s\""
+
+#: search_list.php:68
+msgid "Latest items"
+msgstr "Últimos Itens"
+
+#: search_module.php:18
+msgid "Close Filters"
+msgstr "Fechar filtros"
+
+#: search_module.php:18
+msgid "Filters"
+msgstr "Filtros"
+
+#: search_module.php:30
+msgid "Your search"
+msgstr "Sua Pesquisa"
+
+#: search_module.php:51 templates/mainsearch/inc.search.autocomplete.php:26
+msgid "Type a city"
+msgstr "Uma cidade"
+
+#: search_module.php:61
+msgid "Min"
+msgstr "Min"
+
+#: search_module.php:62
+msgid "Max"
+msgstr "Max"
+
+#: search_module.php:76
+msgid "Show only"
+msgstr "Mostrar só o"
+
+#: search_module.php:80
+msgid "listings with pictures"
+msgstr "com fotos"
+
+#: search_module.php:85
+msgid "SEARCH"
+msgstr "Procurar"
+
+#: search_module.php:100 templates/mainsearch/inc.search.autocomplete.php:49
+msgid "Selected"
+msgstr "Selecionado"
+
+#: search_module.php:101 templates/mainsearch/inc.search.autocomplete.php:50
+msgid "Nothing selected, input was"
+msgstr "Nada selecionado, a entrada foi"
+
+#: templates/mainsearch/all.php:23
+#: templates/mainsearch/inc.search.autocomplete.php:14
+#: templates/mainsearch/inc.search.city.items.php:14
+#: templates/mainsearch/inc.search.city.items.php:20
+#: templates/mainsearch/inc.search.city.php:14
+#: templates/mainsearch/inc.search.city.php:20
+#: templates/mainsearch/inc.search.countries.php:14
+#: templates/mainsearch/inc.search.countries.php:20
+#: templates/mainsearch/inc.search.hide.php:14
+#: templates/mainsearch/inc.search.hide.php:20
+#: templates/mainsearch/inc.search.items.php:14
+#: templates/mainsearch/inc.search.items.php:20
+#: templates/mainsearch/inc.search.regions.php:13
+#: templates/mainsearch/inc.searchcitybyreg.php:20
+msgid "Select a category..."
+msgstr "Selecione uma categoria..."
+
+#: templates/mainsearch/all.php:24 templates/mainsearch/all.php:39
+#: templates/mainsearch/all.php:52 templates/mainsearch/all.php:67
+#: templates/mainsearch/all.php:81
+#: templates/mainsearch/inc.search.autocomplete.php:15
+#: templates/mainsearch/inc.search.city.items.php:15
+#: templates/mainsearch/inc.search.city.php:15
+#: templates/mainsearch/inc.search.countries.php:15
+#: templates/mainsearch/inc.search.hide.php:15
+#: templates/mainsearch/inc.search.items.php:15
+#: templates/mainsearch/inc.search.regions.php:14
+#: templates/mainsearch/inc.searchcitybyreg.php:21
+#: templates/mainsearch/inc.searchcitybyreg.php:37
+#: templates/mainsearch/inc.searchcitybyreg.php:50
+msgid "None"
+msgstr "Nenhum"
+
+#: templates/mainsearch/all.php:51 templates/mainsearch/all.php:66
+msgid "Select a country first..."
+msgstr "Selecionar um país..."
+
+#: templates/mainsearch/all.php:80
+#: templates/mainsearch/inc.searchcitybyreg.php:49
+msgid "Select a region first..."
+msgstr "Selecione uma região..."
+
+#: templates/mainsearch/all.php:126
+msgid "No regions found"
+msgstr "Nenhuma região encontrada."
+
+#: templates/mainsearch/all.php:178
+msgid "No cities found"
+msgstr "Não foram encontradas cidades."
+
+#: templates/mainsearch/inc.searchcitybyreg.php:94
+msgid "No result"
+msgstr "Sem resultados"
+
+#: user-alerts.php:34 user-change_email.php:62 user-change_password.php:34
+#: user-change_username.php:79 user-custom.php:33 user-dashboard.php:40
+#: user-items.php:35 user-profile.php:38
+msgid "User account manager"
+msgstr "Gerente de conta de usuário"
+
+#: user-alerts.php:44
+msgid "Your alerts"
+msgstr "Seus alertas"
+
+#: user-alerts.php:50
+msgid "You do not have any alerts yet"
+msgstr "Você não tem nenhum alerta ainda"
+
+#: user-alerts.php:56
+msgid "Alert"
+msgstr "Alertas"
+
+#: user-alerts.php:56
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Essa ação não pode ser desfeita. Tem certeza de que deseja continuar?"
+
+#: user-alerts.php:56
+msgid "Delete this alert"
+msgstr "Apagar este Alerta"
+
+#: user-alerts.php:61 user-dashboard.php:67 user-items.php:47
+msgid "No listings have been added yet"
+msgstr "Nenhum anúncio foi adicionado ainda"
+
+#: user-change_email.php:33
+msgid "Email: this field is required"
+msgstr "Email: Este campo é obrigatório"
+
+#: user-change_email.php:72
+msgid "Change your e-mail"
+msgstr "Mude o seu e-mail"
+
+#: user-change_email.php:80
+msgid "Current e-mail"
+msgstr "E-mail Atual"
+
+#: user-change_email.php:88
+msgid "New e-mail"
+msgstr "Novo e-mail"
+
+#: user-change_password.php:43
+msgid "Change your password"
+msgstr "Mude a sua palavra passe"
+
+#: user-change_password.php:50
+msgid "Current password"
+msgstr "Palavra passe Atual"
+
+#: user-change_password.php:56 user-forgot_password.php:38
+msgid "New password"
+msgstr "Nova Palavra passe"
+
+#: user-change_password.php:62 user-forgot_password.php:42
+msgid "Repeat new password"
+msgstr "Repetir a nova palavra passe"
+
+#: user-change_username.php:34
+msgid "Username: this field is required"
+msgstr "Nome de utilizador: o campo é obrigatório"
+
+#: user-change_username.php:59
+msgid "The username is available"
+msgstr "O nome de utilizador está disponível"
+
+#: user-change_username.php:61
+msgid "The username is NOT available"
+msgstr "O nome de utilizador NÃO está disponível"
+
+#: user-change_username.php:85
+msgid "Change your username"
+msgstr "Alterar o seu nome de utilizador"
+
+#: user-change_username.php:92
+msgid "Username"
+msgstr "Nome de utilizador"
+
+#: user-change_username.php:96
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"AVISO: Após escolhido não pode alterar o nome de utilizador. Escolha com "
+"calma."
+
+#: user-dashboard.php:58
+#, php-format
+msgid "Latest listings from %s"
+msgstr "Anuncios de %s"
+
+#: user-dashboard.php:62
+msgid "Post a new listing"
+msgstr "Publique um novo anúncio"
+
+#: user-dashboard.php:76
+msgid "Activated"
+msgstr "Ativado"
+
+#: user-dashboard.php:76 user-items.php:85
+msgid "Inactivated"
+msgstr "Inativada"
+
+#: user-dashboard.php:78 user-items.php:87
+msgid "Spam"
+msgstr "Spam"
+
+#: user-dashboard.php:88
+msgid "Publication date"
+msgstr "Data de publicação"
+
+#: user-dashboard.php:98 user-items.php:90
+msgid "Edit"
+msgstr "Editar"
+
+#: user-dashboard.php:100 user-items.php:91
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Essa ação não pode ser desfeita. Tem certeza de que deseja continuar?"
+
+#: user-forgot_password.php:30 user-recover.php:37
+msgid "Recover your password"
+msgstr "Recupere a sua palavra passe"
+
+#: user-forgot_password.php:45
+msgid "Change password"
+msgstr "Alterar palavra passe"
+
+#: user-items.php:45
+msgid "Listings"
+msgstr "Anúncios"
+
+#: user-items.php:85
+msgid "Active"
+msgstr "Activo"
+
+#: user-login.php:35
+msgid "Access to your account"
+msgstr "Aceda à sua conta"
+
+#: user-login.php:40
+msgid "Password"
+msgstr "Palavra passe"
+
+#: user-login.php:45
+msgid "Remember me"
+msgstr "Lembrem-se de mim"
+
+#: user-login.php:48
+msgid "Log in"
+msgstr "Entrar"
+
+#: user-login.php:53
+msgid "Forgot password?"
+msgstr "Esqueceu a palavra passe?"
+
+#: user-profile.php:52
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"Todos os seus anúncios e alertas serão removidos, esta ação não pode ser "
+"revertida."
+
+#: user-profile.php:64
+msgid "Update your profile"
+msgstr "Atualizar seu perfil"
+
+#: user-profile.php:82
+msgid "Modify e-mail"
+msgstr "Modificar seu e-mail"
+
+#: user-profile.php:85
+msgid "Modify password"
+msgstr "Modificar Palavra passe"
+
+#: user-profile.php:92
+msgid "User type"
+msgstr "Digite o usuário"
+
+#: user-profile.php:100
+msgid "Cell phone"
+msgstr "Telefone Celular"
+
+#: user-profile.php:107
+msgid "Phone"
+msgstr "Telefone"
+
+#: user-profile.php:133
+msgid "Website"
+msgstr "Website"
+
+#: user-profile.php:137
+msgid "User Description"
+msgstr "Descrição do Usuário"
+
+#: user-profile.php:144
+msgid "Delete my account"
+msgstr "Apagar a minha conta"
+
+#: user-public-profile.php:61
+msgid "Register date"
+msgstr "REGISTO"
+
+#: user-public-profile.php:112
+msgid "Latest listings"
+msgstr "Últimos anuncios"
+
+#: user-recover.php:44
+msgid "Send me a new password"
+msgstr "Enviem-me uma nova palavra passe"
+
+#: user-register.php:36
+msgid "Register an account for free"
+msgstr "Registre uma conta gratuitamente"
+
+#: user-register.php:38
+msgid "Name *"
+msgstr "Nome *"
+
+#: user-register.php:41
+msgid "Password *"
+msgstr "Senha *"
+
+#: user-register.php:44
+msgid "Re-type password *"
+msgstr "Confirme sua senha*"
+
+#: user-register.php:47
+msgid "Passwords don't match"
+msgstr "As palavras passe não combinam"
+
+#: user-register.php:50
+msgid "E-mail *"
+msgstr "E-mail *"
+
+#: user-register.php:53
+msgid "Mobile Phone"
+msgstr "Telemóvel"
+
+#: user-register.php:62
+msgid "* This field is required"
+msgstr "* Este campo é obrigatório"
+
+#: user-register.php:76
+msgid "Create"
+msgstr "Criar"
+
+#~ msgid "Contacts"
+#~ msgstr "Contatos"
+
+#~ msgid "Your e-mail"
+#~ msgstr "Seu e-mail"
+
+#~ msgid "Comment"
+#~ msgstr "Comentar"
+
+#~ msgid "See the popular offers from our users."
+#~ msgstr "Ver as ofertas populares de nossos usuários."
+
+#~ msgid ""
+#~ "Explore some of the best tips from around the world from our partners and "
+#~ "friends."
+#~ msgstr ""
+#~ "Explore algumas das melhores dicas de todo o mundo de nossos parceiros e "
+#~ "amigos."
+
+#~ msgid "read more"
+#~ msgstr "leia mais"
+
+#~ msgid "Explore some other of the best tips"
+#~ msgstr "Explorar alguns outros das melhores dicas"
+
+#~ msgid "Select a city"
+#~ msgstr "Selecionar uma cidade"
+
+#~ msgid "'"
+#~ msgstr "'"
+
+#~ msgid "Select a region"
+#~ msgstr "Seleccionar um estado:"
+
+#~ msgid "Select a country"
+#~ msgstr "Selecione um país"
+
+#~ msgid "Registration"
+#~ msgstr "Registo"
+
+#~ msgid "Advanced search"
+#~ msgstr "Pesquisa avançada"
+
+#~ msgid "Images"
+#~ msgstr "Imagens"
+
+#~ msgid "Photos"
+#~ msgstr "Fotos"
+
+#~ msgid "Listing Location"
+#~ msgstr "Localização do anúncio"
+
+#~ msgid "Seller's information"
+#~ msgstr "Informações do Vendedor"
+
+#~ msgid "Show e-mail on the listing page"
+#~ msgstr "Mostrar e-mail na página de anuncio"
+
+#~ msgid "Filter"
+#~ msgstr "Filtro"
+
+#~ msgid "Most popular listings"
+#~ msgstr "Mais populares"
+
+#~ msgid "Read more"
+#~ msgstr "Leia mais"
+
+#~ msgid "Users"
+#~ msgstr "Utilizador"
+
+#~ msgid "search"
+#~ msgstr "Procurar"
+
+#~ msgid "city"
+#~ msgstr "cidade"
+
+#~ msgid "Listings from %s"
+#~ msgstr "Anúncios para %s"
+
+#~ msgid "%s's profile"
+#~ msgstr "%s do perfil"
+
+#~ msgid "Pictures for categories"
+#~ msgstr "Imágenes para categorías"
+
+#~ msgid "Footer link"
+#~ msgstr "Link de Rodapé"
+
+#~ msgid "Information"
+#~ msgstr "Adicionais"
+
+#~ msgid "Contact seller"
+#~ msgstr "Entre em contacto com anunciante"
+
+#~ msgid "To (seller)"
+#~ msgstr "Para (vendedor)"
+
+#~ msgid "Listing"
+#~ msgstr "Anúnciar"
+
+#~ msgid "Send message"
+#~ msgstr "Enviar Mensagem"
+
+#~ msgid "Send to a friend"
+#~ msgstr "Enviar para amigos"
+
+#~ msgid "Your friend's name"
+#~ msgstr "Nome dos seus amigos"
+
+#~ msgid "Your friend's e-mail address"
+#~ msgstr "Endereço de e-mail do seu amigo "
+
+#~ msgid "Published date"
+#~ msgstr "Data da publicação"
+
+#~ msgid "Modified date"
+#~ msgstr "Data de modificação"
+
+#~ msgid "Views"
+#~ msgstr "Visualizar"
+
+#~ msgid "Enter the words above"
+#~ msgstr "Digite as palavras acima"
+
+#~ msgid "Location"
+#~ msgstr "Localização"
+
+#~ msgid ""
+#~ "This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+#~ "osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+#~ msgstr ""
+#~ "Este portal está a utilizar o  <a title=\"Osclass web\" href=\"http://"
+#~ "osclass.org/\">script de classificados</a>  <strong>Osclass</strong>"
+
+#~ msgid "Your search must be at least three characters long"
+#~ msgstr "ua busca deve ser de pelo menos três caracteres"
+
+#~ msgid "Language"
+#~ msgstr "Idioma"
+
+#~ msgid "General information"
+#~ msgstr "Informações Gerais"
+
+#~ msgid "City area"
+#~ msgstr "Área da Cidade"
+
+#~ msgid "by"
+#~ msgstr "por"
+
+#~ msgid "Leave your comment (spam and offensive messages will be removed)"
+#~ msgstr ""
+#~ "Deixe o seu comentário (mensagens de spam ou ofensiva será removida)"
+
+#~ msgid "Tel"
+#~ msgstr "Tel"
+
+#~ msgid "The listing is expired. You can't contact the publisher."
+#~ msgstr "O anúncio expirou. Não pode contatar o anunciante."
+
+#~ msgid "See all offers"
+#~ msgstr "Ver todas as ofertas"
+
+#~ msgid "No Related Ads"
+#~ msgstr "Sem anúncios"
+
+#~ msgid "Sort by"
+#~ msgstr "Classificar por"
+
+#~ msgid "Subcategories"
+#~ msgstr "SubCategorias"
+
+#~ msgid "Show only listings with pictures"
+#~ msgstr "Mostrar somente anúncios com fotos"
+
+#~ msgid "View listing"
+#~ msgstr "Ver anúncio"
+
+#~ msgid "Activate"
+#~ msgstr "Ativar"
+
+#~ msgid "Inactive"
+#~ msgstr "Inativo"
+
+#~ msgid "Modify username"
+#~ msgstr "Alterar nome de utilizador"
+
+#~ msgid "Delete account"
+#~ msgstr "Apagar conta"
+
+#~ msgid "Full name"
+#~ msgstr "Nome completo"
+
+#~ msgid "Re-type password"
+#~ msgstr "Re-digite a palavra passe"
+
+#~ msgid "Subscribe now"
+#~ msgstr "Assine já"
+
+#~ msgid "ie. PHP Programmer"
+#~ msgstr "ie. PHP Programmer"
+
+#~ msgid "No file selected"
+#~ msgstr "Nenhum Arquivo Selecionado"
+
+#~ msgid "Choose File"
+#~ msgstr "Escolha Arquivo"
+
+#~ msgid "Hi %s"
+#~ msgstr "Olá %s"
+
+#~ msgid "Publish your ad for free"
+#~ msgstr "Publicar o seu anúncio grátis"
+
+#~ msgid ""
+#~ "You must log in or register a new account in order to contact the "
+#~ "advertiser"
+#~ msgstr ""
+#~ "Tem de estar identificado(a) ou registar-se para poder contatar o "
+#~ "anunciante"
+
+#~ msgid "General Information"
+#~ msgstr "Informação Geral"
+
+#~ msgid "Mark as"
+#~ msgstr "Marcar como"
+
+#~ msgid "spam"
+#~ msgstr "Spam"
+
+#~ msgid "misclassified"
+#~ msgstr "classificados erroneamente"
+
+#~ msgid "duplicated"
+#~ msgstr "duplicada"
+
+#~ msgid "expired"
+#~ msgstr "expirado"
+
+#~ msgid "offensive"
+#~ msgstr "ofensiva"
+
+#~ msgid "Share"
+#~ msgstr "Compartilhar"
+
+#~ msgid "Image"
+#~ msgstr "Imagem"
+
+#~ msgid "Apply"
+#~ msgstr "Aplicar"
+
+#~ msgid "Sponsored ad"
+#~ msgstr "Aanúncio patrocinado"
+
+#~ msgid "Your listings"
+#~ msgstr "Seus Anúncio"
+
+#~ msgid "You don't have any listings yet"
+#~ msgstr "Você não tem nenhum anúncio ainda"
+
+#~ msgid "The preferred size of the logo is 600x100."
+#~ msgstr "O tamanho preferido de é logotipo o 600x100."
+
+#~ msgid "Donate"
+#~ msgstr "Doar"
+
+#~ msgid "Custom"
+#~ msgstr "Personalizado"
+
+#~ msgid "Osclass Modern Theme"
+#~ msgstr "Tema Osclass Modern"
+
+#~ msgid "http://www.osclass.org/"
+#~ msgstr "http://www.osclass.org/"
+
+#~ msgid "This is the Osclass modern theme"
+#~ msgstr "Este é o tema Osclass modern"
+
+#~ msgid "Osclass team"
+#~ msgstr "Equipa Osclass"
+
+#~ msgid "Osclass can't upload the logo image from the administration panel."
+#~ msgstr ""
+#~ "O Osclass não pode carregar o logotipo pelo painel de administração."
+
+#~ msgid ""
+#~ "I want to help Osclass by linking to <a href=\"http://osclass.org/\" "
+#~ "target=\"_blank\">osclass.org</a> from my site with the following text:"
+#~ msgstr ""
+#~ "Quero ajudar o Osclass fazendo um link para  <a href=\"http://osclass.org/"
+#~ "\" target=\"_blank\">osclass.org</a>  do meu portal com o seguinte texto:"
+
+#~ msgid ""
+#~ "I would like to contribute to the development of Osclass with a donation "
+#~ "of"
+#~ msgstr ""
+#~ "Desejo contribuir para o desenvolvimento do Osclass com um donativo de"
+
+#~ msgid "Default logo"
+#~ msgstr "Logotipo por omissão"
+
+#~ msgid "Show default logo in case you didn't upload one previously"
+#~ msgstr ""
+#~ "Apresenta o logotipo por omissão caso não tenha carregado um previamente"

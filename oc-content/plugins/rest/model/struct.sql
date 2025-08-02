@@ -1,0 +1,31 @@
+DROP TABLE IF EXISTS /*TABLE_PREFIX*/t_rest_log;
+CREATE TABLE /*TABLE_PREFIX*/t_rest_log (
+  pk_i_id INT NOT NULL AUTO_INCREMENT,
+  fk_i_key_id INT,
+  s_type VARCHAR(20),
+  s_action VARCHAR(100),
+  s_detail VARCHAR(500),
+  d_time DECIMAL(20,10),
+  s_status VARCHAR(20) NULL,
+  dt_datetime TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (pk_i_id)
+) ENGINE=InnoDB DEFAULT CHARACTER SET 'UTF8' COLLATE 'UTF8_GENERAL_CI';
+
+
+DROP TABLE IF EXISTS /*TABLE_PREFIX*/t_rest_key;
+CREATE TABLE /*TABLE_PREFIX*/t_rest_key (
+  pk_i_id INT NOT NULL AUTO_INCREMENT,
+  s_name VARCHAR(100),
+  s_description VARCHAR(1000),
+  s_email VARCHAR(100),
+  s_key VARCHAR(100),
+  s_privilege VARCHAR(200),
+  i_max_calls INT,
+  s_status VARCHAR(20),
+  dt_datetime TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (pk_i_id)
+) ENGINE=InnoDB DEFAULT CHARACTER SET 'UTF8' COLLATE 'UTF8_GENERAL_CI';
+
+

@@ -1,0 +1,12 @@
+Russian Ultimate Payments 4.1.1 2018-02-28
+------------------------
+- Admin menu icons fix
+
+Russian Ultimate Payments 4.0.0 2017-12-14
+------------------------
+- New options
+
+
+
+
+
