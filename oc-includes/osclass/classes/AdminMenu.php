@@ -34,6 +34,7 @@ class AdminMenu {
     $this->add_submenu('items', __('Manage media'), osc_admin_base_url(true).'?page=media', 'items_media', 'moderator');
     $this->add_submenu('items', __('Comments'), osc_admin_base_url(true).'?page=comments', 'items_comments', 'moderator');
     $this->add_submenu('items', __('Categories'), osc_admin_base_url(true) . '?page=categories', 'items_categories', 'administrator');
+     $this->add_submenu('items', __('Attributes'), osc_admin_base_url(true).'?page=att', 'items_att', 'administrator');
     $this->add_submenu('items', __('Custom fields'), osc_admin_base_url(true).'?page=cfields', 'items_cfields', 'administrator');
     $this->add_submenu('items', __('Settings'), osc_admin_base_url(true).'?page=items&action=settings', 'items_settings', 'administrator');
 

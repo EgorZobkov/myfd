@@ -11849,3 +11849,19 @@ msgstr "Исследуйте фронт-офис"
 #, php-format
 msgid "Nearly everything looks good! Your Osclass installation is up-to-date, but there were some errors removing temporary files. Please manually remove the \"%s/downloads/oc-temp\" folder"
 msgstr "Почти все выглядит хорошо! Ваша установка Osclass обновлена, но при удалении временных файлов возникли некоторые ошибки. Пожалуйста, вручную удалите папку \"%s/downloads/oc-temp\""
+
+#: oc-includes/osclass/classes/AdminMenu.php:37 oc-admin/themes/omega/att/index.php:3 oc-admin/themes/omega/att/index.php:16
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: oc-admin/themes/omega/att/index.php:7
+msgid "Add attribute"
+msgstr "Добавить атрибут"
+
+#: oc-admin/themes/omega/att/index.php:21
+msgid "Drag & drop the attributes to reorder them the way you like. Click on edit link to edit the attribute"
+msgstr "Перетащите атрибуты, чтобы изменить их порядок так, как вам нравится. Нажмите на ссылку редактировать, чтобы отредактировать атрибут"
+
+#: oc-admin/themes/omega/att/index.php:30
+msgid "You don't have any attributes yet"
+msgstr "У вас пока нет атрибутов"

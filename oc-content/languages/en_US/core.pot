@@ -9906,3 +9906,20 @@ msgstr ""
 #: oc-includes/osclass/utils.php:2962
 msgid "Missing product key"
 msgstr ""
+
+
+#: oc-includes/osclass/classes/AdminMenu.php:37 oc-admin/themes/omega/att/index.php:3 oc-admin/themes/omega/att/index.php:16
+msgid "Attributes"
+msgstr ""
+
+#: oc-admin/themes/omega/att/index.php:7
+msgid "Add attribute"
+msgstr ""
+
+#: oc-admin/themes/omega/att/index.php:21
+msgid "Drag & drop the attributes to reorder them the way you like. Click on edit link to edit the attribute"
+msgstr ""
+
+#: oc-admin/themes/omega/att/index.php:30
+msgid "You don't have any attributes yet"
+msgstr ""

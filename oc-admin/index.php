@@ -208,6 +208,12 @@ switch(Params::getParam('page')) {
     $do->doModel();
     break;
     
+    case('att'):
+    require_once(osc_admin_base_path() . 'att.php');
+    $do = new CAdminAtt();
+    $do->doModel();
+    break;  
+    
   case('cfields'):
     require_once(osc_admin_base_path() . 'custom_fields.php');
     $do = new CAdminCFields();

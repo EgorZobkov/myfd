@@ -1052,3 +1052,7 @@ msgstr "Это объявление будет показываться в пр�
 #: ../oc-includes/osclass/gui/admin/settings.php:156
 msgid "Save changes"
 msgstr "Сохранить изменения"
+
+#: oc-includes/osclass/classes/AdminMenu.php:37 oc-admin/themes/omega/att/index.php:3 oc-admin/themes/omega/att/index.php:16
+msgid "Attributes"
+msgstr "Атрибуты"
