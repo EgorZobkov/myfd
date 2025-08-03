@@ -101,9 +101,9 @@ osc_enqueue_script('rotate-js');
                 <div class="inp-counter titledis">
                     <?php ItemForm::description_textarea('description',osc_current_user_locale(), osc_esc_html( eva_item_description() )); ?>
                     <span class="inp-counter__count bottom-count" data-val="<?php echo osc_max_characters_per_description(); ?>"><?php echo osc_max_characters_per_description(); ?></span>
-                </div> 
+                </div>
             </div>
-                    
+
             <?php if( osc_images_enabled_at_items() ) { ?>
                 <div class="inp-group">
                     <h4 class="inp-group__title plus__image"><?php _e('Add images','eva')?></h4>
@@ -113,8 +113,8 @@ osc_enqueue_script('rotate-js');
                         <?php if(osc_images_enabled_at_items()) {
                             if(eva_is_fineuploader()) {
                                 ItemForm::ajax_photos();
-                            }
-                        } else { ?>      
+}
+                        } else { ?>
                             <div id="photos" class="load-img upload-images">
                                 <div class="row">
                                     <input type="file" name="photos[]" />
@@ -125,19 +125,8 @@ osc_enqueue_script('rotate-js');
                     </div>
                 </div>
             <?php } ?>
-        </div>
-
-        <div class="item_box">    
-            <?php if(osc_get_preference('custom-fileds', 'eva') == 'top'){ ?>
-                <div class="inp-group">
-                    <div class="box">
-                        <?php ItemForm::plugin_post_item(); ?>
-                    </div> 
-                </div>
-            <?php } ?>
-        </div>
-
-        <div class="item_box"> 
+         </div>
+                      <div class="item_box">   
             <?php if( osc_price_enabled_at_items() ) { ?>
                 <div class="inp-group">
                     <h4 class="inp-group__title plus__price"><?php _e('Price', 'eva'); ?></h4>
@@ -152,15 +141,44 @@ osc_enqueue_script('rotate-js');
                     </div>
                 </div>
             <?php } ?>
-                        
+                 
+        </div>
+
+        <div class="item_box">    
+            <?php if(osc_get_preference('custom-fileds', 'eva') == 'top'){ ?>
+                <div class="inp-group">
+                    <div class="box">
+                        <?php ItemForm::plugin_post_item(); ?>
+                    </div> 
+                </div>
+            <?php } ?>
+        </div>
+                     <h3 class="inp-group__title"><?php _e('Logistics', 'eva'); ?></h3>
+        <div class="item_box">
             <?php if(osc_get_preference('item-post-loc', 'eva') == 'enable'){ ?>
                 <div class="inp-group">
+
                     <div class="input-row">
-                              <div class="input-col">
+                       <div class="input-col">
                             <h4 class="inp-group__title"><?php _e('City', 'eva'); ?></h4>
                             <?php ItemForm::city_text2( osc_item()); ?>
                         </div>
                     </div>
+<?php if(function_exists('atr_generate_post_elem')) {
+                        $atr = ModelATR::newInstance()->getAttributeDetail(23);
+                        if($atr) {
+                            $allowed_vals = array(170, 171, 173, 370);
+                            if(isset($atr['values']) && is_array($atr['values'])) {
+                                $atr['values'] = array_values(array_filter($atr['values'], function($v) use ($allowed_vals) {
+                                    return in_array($v['pk_i_id'], $allowed_vals);
+                                }));
+                            }
+                            echo '<div class="atr-form atr-theme-' . osc_current_web_theme() . ' ' . (atr_param('styled') == 1 ? 'atr-styled' : '') . '">';
+                            echo atr_generate_post_elem($atr, null);
+                            echo '</div>';
+                        }
+                    } ?>
+
                 </div>
             <?php } ?>
         </div>
@@ -184,11 +202,7 @@ osc_enqueue_script('rotate-js');
                     </div>
                 </div>
             <?php }?>
-            
-            <?php if( function_exists( "MyHoneyPot" )) { ?>		
-                <?php MyHoneyPot(); ?>		
-            <?php } ?>  			
-                        
+                 
             <div class="inp-group">
                 <?php osc_run_hook('advcaptcha_hook_item'); ?>
                 <button type="submit" class="btn btn-center upcase">
