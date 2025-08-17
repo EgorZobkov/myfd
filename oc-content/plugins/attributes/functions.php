@@ -1222,7 +1222,7 @@ function atr_generate_post_elem($a, $item_id, $linked = false) {
 
   } else if($a['s_type'] == 'CHECKBOX' || $a['s_type'] == 'RADIO' ) {
     if(is_array($a['values']) && count($a['values']) > 0) {
-      $html .= '<ul class="atr-ul atr-ul-' . strtolower($a['s_type']) . '">';
+       $html .= '<ul class="atr-ul atr-ul-' . strtolower($a['s_type']) . ($a['pk_i_id'] == 23 ? ' logistics-options' : '') . '">';
 
       
       foreach($a['values'] as $v) {
@@ -1242,16 +1242,13 @@ function atr_generate_post_elem($a, $item_id, $linked = false) {
                     </label>
                 
                 <span class="clr_atr_span">' . atr_name($v['locales']) . '</span></li>';
+ } else if($a['pk_i_id'] == 23) {
+            $icon = osc_current_web_theme_url('img/logistics/' . $v['pk_i_id'] . '.svg');
+            $html .= '<li class="logistics-option"><input type="checkbox" id="' . $idc . '" name="' . $idc . '" ' . $checked . '/><label for="' . $idc . '" class="logistics-btn"><img src="' . $icon . '" alt="' . atr_name($v['locales']) . '"><span>' . atr_name($v['locales']) . '</span></label></li>';
 
           } else {
             $html .= '<li><div class="atr-input-box atr-' . strtolower($a['s_type']) . '"><input type="' . strtolower($a['s_type']) . '" id="' . $idc . '" name="' . $idc . '" ' . $checked . '/> <label for="' . $idc . '">' . atr_name($v['locales']) . '</div></label></li>';
           }}
-
-      if($a['s_type'] == 'CHECKBOX') {
-        $html .= '<a href="#" class="atr-select-deselect atr-select-all">' . __('отметить все', 'attributes') . '</a>';
-        $html .= '<a href="#" class="atr-select-deselect atr-deselect-all" style="display:none;">' . __('Снять отметки', 'attributes') . '</a>';
-      }
-
       $html .= '</ul>';
     }
 

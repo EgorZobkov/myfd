@@ -4866,13 +4866,17 @@ input.submit,
     margin: 10px 0 0;
   }
 
+ .item_box {
+  padding: 20px 30px;
+ }
+
   .input-col {
     width: 100%;
     float: none;
   }
 
   .publish {
-    margin: 0 0 80px;
+    margin: 0 10px 80px;
   }
 
   .profile {
@@ -5885,8 +5889,8 @@ input#alert_email:focus,
 /* Logistics options buttons */
 .logistics-options {
   display: grid;
-  grid-template-columns: repeat(4, 80px);
-  gap: 12px;
+  grid-template-columns: repeat(4, 74px);
+  gap: 4px;
   padding: 0;
   margin: 0;
   list-style: none;
@@ -5910,8 +5914,8 @@ input#alert_email:focus,
 }
 
 .logistics-btn img {
-  width: 80px;
-  height: 80px;
+  width: 70px;
+  height: 40px;
   border: 1px solid #C0C0C0;
   border-radius: 8px;
   background-color: #fff;
@@ -5921,14 +5925,19 @@ input#alert_email:focus,
 .logistics-btn span {
   margin-top: 4px;
   font-size: 11px;
+  max-width: 70px;
+  text-align: center
 }
 
 .logistics-option input[type="checkbox"]:checked + .logistics-btn img {
-  background-color: #8B4CA1;
-  border-color: #8B4CA1;
-  filter: brightness(0) invert(1);
+  background-color: #bcdff3;
+  border-color: #5ABBF2;
+}
+
+.logistics-option input[type="checkbox"]:checked + .logistics-btn img svg path{
+fill: white;
 }
 
 .logistics-option input[type="checkbox"]:checked + .logistics-btn span {
-  color: #fff;
+  color: #5ABBF2;
 }
