@@ -5879,5 +5879,56 @@ input#alert_email:focus,
 
   .obj-inline-price {
     font-size: 16px;
-  }
+   }
+}
+
+/* Logistics options buttons */
+.logistics-options {
+  display: grid;
+  grid-template-columns: repeat(4, 80px);
+  gap: 12px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.logistics-option {
+  margin: 0;
+}
+
+.logistics-option input[type="checkbox"] {
+  display: none;
+}
+
+.logistics-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80px;
+  cursor: pointer;
+  color: #000;
+}
+
+.logistics-btn img {
+  width: 80px;
+  height: 80px;
+  border: 1px solid #C0C0C0;
+  border-radius: 8px;
+  background-color: #fff;
+  object-fit: contain;
+}
+
+.logistics-btn span {
+  margin-top: 4px;
+  font-size: 11px;
+}
+
+.logistics-option input[type="checkbox"]:checked + .logistics-btn img {
+  background-color: #8B4CA1;
+  border-color: #8B4CA1;
+  filter: brightness(0) invert(1);
+}
+
+.logistics-option input[type="checkbox"]:checked + .logistics-btn span {
+  color: #fff;
 }

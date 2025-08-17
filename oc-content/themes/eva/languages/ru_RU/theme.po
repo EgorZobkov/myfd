@@ -1463,7 +1463,6 @@ msgstr "Район"
 msgid "Logistics"
 msgstr "Логистика"
 
-
 #: item-edit.php:169 item-post.php:168 user-profile.php:129
 msgid "Address"
 msgstr "Адрес"
